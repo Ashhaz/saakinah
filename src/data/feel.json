@@ -1,0 +1,146 @@
+{
+ "depression": [
+  "sujood",
+  "quran",
+  "lahawla",
+  "kindness"
+ ],
+ "anxiety": [
+  "lahawla",
+  "dhikr",
+  "sujood",
+  "quls"
+ ],
+ "pressure": [
+  "sujood",
+  "salawat",
+  "istighfar"
+ ],
+ "money": [
+  "rizq",
+  "sujood",
+  "shukr"
+ ],
+ "comparison": [
+  "shukr",
+  "sujood",
+  "quls"
+ ],
+ "behind": [
+  "sujood",
+  "istighfar",
+  "shukr"
+ ],
+ "burnout": [
+  "sujood",
+  "dhikr",
+  "lahawla"
+ ],
+ "loneliness": [
+  "dhikr",
+  "salawat",
+  "kindness",
+  "sujood"
+ ],
+ "future": [
+  "lahawla",
+  "sujood",
+  "istighfar",
+  "quls"
+ ],
+ "attention": [
+  "quran",
+  "dhikr",
+  "istighfar",
+  "tasbih100"
+ ],
+ "overwhelm": [
+  "lahawla",
+  "quls",
+  "dhikr"
+ ],
+ "sleep": [
+  "ayatkursi",
+  "quls",
+  "tasbih_sleep"
+ ],
+ "eyes": [
+  "shukr",
+  "dhikr"
+ ],
+ "posture": [
+  "shukr",
+  "dhikr"
+ ],
+ "movement": [
+  "shukr",
+  "dhikr"
+ ],
+ "grief": [
+  "sujood",
+  "quran",
+  "lahawla"
+ ],
+ "anger": [
+  "dhikr",
+  "istighfar",
+  "sujood"
+ ],
+ "heartbreak": [
+  "sujood",
+  "quran",
+  "dhikr",
+  "istighfar"
+ ],
+ "family": [
+  "sujood",
+  "kindness",
+  "dhikr"
+ ],
+ "peer": [
+  "dhikr",
+  "quran",
+  "sujood"
+ ],
+ "guilt": [
+  "istighfar",
+  "sujood",
+  "hands",
+  "tasbih100"
+ ],
+ "distant": [
+  "quran",
+  "dhikr",
+  "sujood",
+  "salawat"
+ ],
+ "habit": [
+  "istighfar",
+  "sujood",
+  "lahawla",
+  "dhikr"
+ ],
+ "bodyimage": [
+  "shukr",
+  "dhikr",
+  "quran"
+ ],
+ "hopeless": [
+  "hands",
+  "sujood",
+  "quran",
+  "kindness"
+ ],
+ "identity": [
+  "quran",
+  "sujood",
+  "dhikr",
+  "salawat"
+ ],
+ "purpose": [
+  "quran",
+  "kindness",
+  "dhikr",
+  "sujood"
+ ]
+}

@@ -1,0 +1,4758 @@
+[
+ {
+  "slug": "depression",
+  "group": "mind",
+  "hue": 215,
+  "glyph": "◐",
+  "title": "Depression & Heavy Sadness",
+  "tagline": "When everything feels dark, grey and heavy",
+  "intro": "Feeling low, numb or empty does not mean your faith is broken. The Qur’an and the Prophet ﷺ speak about sorrow honestly and gently. You are allowed to feel this, and you are allowed to ask for help.",
+  "callout": {
+   "title": "Faith and professional care walk together",
+   "body": "Depression can be an illness as well as an emotional and spiritual struggle. The Prophet ﷺ said that Allah has not sent down a disease except that He also sent down its cure (Ṣaḥīḥ al-Bukhārī 5678). Seeing a doctor or a therapist is part of seeking that cure, not a lack of trust in Allah."
+  },
+  "verses": [
+   {
+    "ref": "94:5-6",
+    "ayahs": [
+     "94:5",
+     "94:6"
+    ],
+    "en": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.",
+    "why": "Not “after” the hardship is gone, but with it: ease is already travelling alongside the difficulty.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "93:3-5",
+    "ayahs": [
+     "93:3",
+     "93:4",
+     "93:5"
+    ],
+    "en": "Your Lord has not taken leave of you, nor has He detested [you]. And the Hereafter is better for you than the first [life]. And your Lord is going to give you, and you will be satisfied.",
+    "why": "These words were revealed to comfort the Prophet ﷺ himself during a period of anxious waiting. If they were needed by him, they are for us too.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "13:28",
+    "ayahs": [
+     "13:28"
+    ],
+    "en": "Those who have believed, and whose hearts find peace in the remembrance of Allah. Truly, in the remembrance of Allah do hearts find peace.",
+    "why": "Not a magic switch, but a place to return to again and again, even for one sentence at a time.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "12:86",
+    "ayahs": [
+     "12:86"
+    ],
+    "en": "He said, “I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.”",
+    "why": "The Prophet Yaʿqūb ﷺ wept for years over the loss of Yūsuf (see also 12:84). Grief is human. Complaining to Allah – not about Him – is allowed.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "21:87-88",
+    "ayahs": [
+     "21:87",
+     "21:88"
+    ],
+    "en": "And [mention] the man of the fish, when he went off in anger and thought that We would not decree [anything] upon him; and he called out within the darknesses, “There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.” So We responded to him and saved him from the distress. And thus do We save the believers.",
+    "why": "He called out from “the darknesses” and was answered. Your own dark place is not too dark for a du’a to reach out of it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "39:53",
+    "ayahs": [
+     "39:53"
+    ],
+    "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+    "why": "If your sadness is tangled with guilt or shame, this verse is a direct invitation to come back.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:286",
+    "ayahs": [
+     "2:286"
+    ],
+    "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our Protector…”",
+    "why": "If it feels unbearable, ask for relief: the verse itself teaches you the words.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "How wonderful is the affair of the believer! All of his affairs are good for him, and this is for no one except the believer. If something good happens to him, he is grateful, and that is good for him. If something harmful happens to him, he is patient, and that is good for him.",
+    "by": "Ṣuhayb ibn Sinān (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2999
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "No fatigue, illness, worry, grief, harm or distress afflicts a Muslim – even the prick of a thorn – except that Allah expiates some of his sins through it.",
+    "by": "Abū Saʿīd al-Khudrī and Abū Hurayrah (may Allah be pleased with them)",
+    "srcs": [
+     [
+      "bukhari",
+      5641
+     ],
+     [
+      "muslim",
+      2573
+     ]
+    ],
+    "why": "Your pain is not invisible to Allah, and none of it is wasted.",
+    "grade": null
+   },
+   {
+    "en": "^When his son Ibrāhīm died, the Prophet ﷺ wept and said: “The eyes shed tears and the heart grieves, and we say only what pleases our Lord. O Ibrāhīm, we are truly grieved by your departure.”",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1303
+     ],
+     [
+      "muslim",
+      2315
+     ]
+    ],
+    "why": "Even the best of creation cried. Tears and sadness are not signs of weak faith.",
+    "grade": null
+   },
+   {
+    "en": "Allah has not sent down a disease except that He has also sent down its cure.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5678
+     ]
+    ],
+    "why": "A reminder to seek treatment and support, whether that is a doctor, a counsellor or a trusted person.",
+    "grade": null
+   },
+   {
+    "en": "None of you should wish for death because of a harm that has befallen him. If he must, let him say: ‘O Allah, keep me alive as long as life is good for me, and take me when death is better for me.’",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5671
+     ],
+     [
+      "muslim",
+      2680
+     ]
+    ],
+    "why": "If the thought “I wish it would all end” visits you, please read the box below and talk to someone today.",
+    "grade": null
+   }
+  ],
+  "story": {
+   "title": "The Prophet ﷺ in his own “year of sorrow”",
+   "body": [
+    "Historians of the Prophet’s ﷺ life describe a period in which he lost two of his closest supports, his wife Khadījah and his uncle Abū Ṭālib, around the same time. Then, when he travelled to Ṭāʾif seeking help and a hearing for his message, he was rejected and driven out.",
+    "ʿĀʾishah (may Allah be pleased with her) once asked him whether he had faced a day harder than Uḥud. He told her about that day at ʿAqabah, and said: “So I set off, overwhelmed with grief, and I did not recover until I reached Qarn ath-Thaʿālib.” The angel of the mountains then offered to crush the people of Makkah between two mountains, but he answered that he hoped Allah would bring from their descendants those who would worship Allah alone.",
+    "He felt the weight, was honest about it, kept going, and kept hope for others even in his lowest hour."
+   ],
+   "src": [
+    [
+     "bukhari",
+     3231
+    ],
+    [
+     "muslim",
+     1795
+    ]
+   ]
+  },
+  "duas": [
+   "karb",
+   "ibn_masud",
+   "hamm",
+   "yunus"
+  ],
+  "steps": [
+   "Tell one real person today, even in one sentence: “I haven’t been okay lately.”",
+   "Do the smallest next thing: drink water, open the window, step outside for five minutes of daylight.",
+   "Pray where you are, even if it is short and feels empty. Showing up counts.",
+   "If low mood has lasted two weeks or more, please see a doctor or therapist. This is a health matter, not a failure."
+  ],
+  "crisis": true,
+  "related": [
+   "anxiety",
+   "loneliness",
+   "burnout"
+  ],
+  "start": {
+   "v": 0,
+   "h": 2,
+   "d": "karb",
+   "plain": "You are allowed to feel this heavily. Allah knows, and so did His Messenger ﷺ. Reach for help from Him and from people."
+  }
+ },
+ {
+  "slug": "anxiety",
+  "group": "mind",
+  "hue": 175,
+  "glyph": "≋",
+  "title": "Stress & Anxiety",
+  "tagline": "When your mind will not stop racing",
+  "intro": "Worry is a very human experience, and the Qur’an names it directly. Here is what Allah and His Messenger ﷺ say to a restless heart.",
+  "verses": [
+   {
+    "ref": "13:28",
+    "ayahs": [
+     "13:28"
+    ],
+    "en": "Those who have believed, and whose hearts find peace in the remembrance of Allah. Truly, in the remembrance of Allah do hearts find peace.",
+    "why": "Try it now: put the phone down and say “Allāh” or “SubḥānAllāh” slowly, once per breath.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:173",
+    "ayahs": [
+     "3:173"
+    ],
+    "en": "Those to whom people said, “Indeed, the people have gathered against you, so fear them.” But it increased them in faith, and they said, “Sufficient for us is Allah, and [He is] the best Disposer of affairs.”",
+    "why": "When fear is loud, answer it with: ḥasbunallāhu wa niʿmal-wakīl.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:286",
+    "ayahs": [
+     "2:286"
+    ],
+    "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our Protector…”",
+    "why": "You will never be handed more than you can carry. If it feels like too much, ask for help from people and from Allah.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "9:51",
+    "ayahs": [
+     "9:51"
+    ],
+    "en": "Say, “Never will we be struck except by what Allah has decreed for us; He is our protector.” And upon Allah let the believers rely.",
+    "why": "Much anxiety is about outcomes. This verse hands the outcomes back to the One who holds them.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:159",
+    "ayahs": [
+     "3:159"
+    ],
+    "en": "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].",
+    "why": "The pattern: think, plan, consult, decide – and then rely on Allah. Do your part, then let go of the rest.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:153",
+    "ayahs": [
+     "2:153"
+    ],
+    "en": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+    "why": "Two tools in one verse: sabr and ṣalāh.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "20:46",
+    "ayahs": [
+     "20:46"
+    ],
+    "en": "[Allah] said, “Fear not. Indeed, I am with you both; I hear and I see.”",
+    "why": "Allah’s words to Mūsā and Hārūn ﷺ as they walked toward something terrifying.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "If you were to rely on Allah as He should be relied upon, He would provide for you as He provides for the birds: they go out in the morning hungry and return in the evening full.",
+    "by": "ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2344
+     ]
+    ],
+    "why": "Notice: the birds go out. Trust (tawakkul) is not sitting still; it is moving, and trusting the result to Allah.",
+    "grade": "Ḥasan Ṣaḥīḥ"
+   },
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up. If something befalls you, do not say, ‘If only I had done such-and-such,’ but say, ‘Allah has decreed, and what He willed He did,’ for ‘if only’ opens the door to Satan’s work.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "A cure for replaying the past on a loop.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ used to say: “O Allah, I seek refuge in You from worry and grief, from weakness and laziness, from stinginess and cowardice, from being overwhelmed by debt and from being overpowered by people.”",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6369
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^Ibn ʿAbbās said that “Allah is sufficient for us, and He is the best disposer of affairs” was said by Ibrāhīm when he was thrown into the fire, and by Muḥammad ﷺ when people said, “The people have gathered against you, so fear them,” and it increased them in faith.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      4563
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "hamm",
+   "karb",
+   "hasbuna",
+   "hasbi"
+  ],
+  "widget": "breath",
+  "steps": [
+   "Slow your breathing: in for 4, out for 6, for one minute. Use the breathing circle above.",
+   "Write the worry down. Then circle the part you can act on today, and leave the rest with Allah.",
+   "Move your body for ten minutes. Even a short walk helps with restlessness.",
+   "Cut back on caffeine and late-night scrolling for a week and notice the difference.",
+   "If anxiety is stopping you from living normally, speak to a doctor or counsellor."
+  ],
+  "related": [
+   "future",
+   "sleep",
+   "overwhelm"
+  ],
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "hasbuna",
+   "plain": "Do your part, then hand the rest to Allah. Breathe slowly and remember Him."
+  }
+ },
+ {
+  "slug": "pressure",
+  "group": "mind",
+  "hue": 38,
+  "glyph": "△",
+  "title": "Academic & Career Pressure",
+  "tagline": "When exams, grades and expectations feel crushing",
+  "intro": "Islam values learning and hard work, but never at the cost of your soul. Here is how to strive without breaking.",
+  "verses": [
+   {
+    "ref": "53:39-40",
+    "ayahs": [
+     "53:39",
+     "53:40"
+    ],
+    "en": "And that there is not for man except that [good] for which he strives. And that his effort is going to be seen.",
+    "why": "Effort is honoured; no sincere effort is lost.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "20:25-28",
+    "ayahs": [
+     "20:25",
+     "20:26",
+     "20:27",
+     "20:28"
+    ],
+    "en": "[Moses] said, “My Lord, expand for me my breast [with assurance]. And ease for me my task. And untie the knot from my tongue, that they may understand my speech.”",
+    "why": "A du’a to say before an exam, presentation or interview.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "20:114",
+    "ayahs": [],
+    "en": "…and say, “My Lord, increase me in knowledge.”",
+    "why": "A short du’a for every student. Part of verse 20:114.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "2:286",
+    "ayahs": [
+     "2:286"
+    ],
+    "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our Protector…”",
+    "why": "A reminder that the standard you are judged by is your capacity, not someone else’s timeline.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "94:7-8",
+    "ayahs": [
+     "94:7",
+     "94:8"
+    ],
+    "en": "So when you have finished [your duties], then stand up [for worship]. And to your Lord direct [your longing].",
+    "why": "Finish the task, then turn back to Allah. Your worth is not your output.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "65:3",
+    "ayahs": [
+     "65:3"
+    ],
+    "en": "And will provide for him from where he does not expect. And whoever relies upon Allah – then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+    "why": "This follows verse 2: “And whoever fears Allah – He will make for him a way out.” Provision and outcomes are in Allah’s hands.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Whoever follows a path in which he seeks knowledge, Allah will make easy for him a path to Paradise.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2699
+     ]
+    ],
+    "why": "Your late nights of study are not invisible.",
+    "grade": null
+   },
+   {
+    "en": "Be eager for what benefits you, seek help from Allah, and do not give up.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "An entire study plan in one line: plan → ask Allah → don’t quit.",
+    "grade": null
+   },
+   {
+    "en": "The most beloved deeds to Allah are the most consistent, even if they are small.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      6464
+     ],
+     [
+      "muslim",
+      783
+     ]
+    ],
+    "why": "Twenty steady minutes beat one panicked all-nighter.",
+    "grade": null
+   },
+   {
+    "en": "^“Do good deeds properly, sincerely and moderately, and know that none of you will enter Paradise by his deeds alone.” They asked, “Not even you, O Messenger of Allah?” He said, “Not even me, unless Allah envelops me in His mercy.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6463
+     ],
+     [
+      "muslim",
+      2816
+     ]
+    ],
+    "why": "Your grades and your job title do not decide your worth with Allah.",
+    "grade": null
+   },
+   {
+    "en": "^Salmān told Abū Dardā’: “Your Lord has a right over you, your soul has a right over you, and your family has a right over you, so give each its due.” The Prophet ﷺ said: “Salmān has spoken the truth.”",
+    "by": "Abū Juḥayfah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1968
+     ]
+    ],
+    "why": "Rest and relationships are rights, not rewards for finishing work.",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "musa",
+   "zidni"
+  ],
+  "steps": [
+   "Break the mountain into one 25-minute block and begin. Starting is the hardest part.",
+   "Anchor study sessions to the five prayers. They are built-in breaks and resets.",
+   "Sleep. A rested mind learns faster than an exhausted one.",
+   "Talk to a teacher, mentor or friend before you are drowning, not after."
+  ],
+  "related": [
+   "burnout",
+   "behind",
+   "comparison"
+  ],
+  "start": {
+   "v": 0,
+   "h": 2,
+   "d": "musa",
+   "plain": "Effort counts, and so does rest. Small and steady beats panicked and exhausted."
+  }
+ },
+ {
+  "slug": "money",
+  "group": "mind",
+  "hue": 140,
+  "glyph": "◈",
+  "title": "Financial Uncertainty",
+  "tagline": "When bills, debt and the cost of everything keep you up",
+  "intro": "Islam asks you to work, plan and be honest, and also to know that provision (rizq) is ultimately in Allah’s hands. Both halves matter.",
+  "verses": [
+   {
+    "ref": "11:6",
+    "ayahs": [
+     "11:6"
+    ],
+    "en": "And there is no creature on earth but that upon Allah is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.",
+    "why": "Your provision has been written. Your part is to seek it honestly.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "65:7",
+    "ayahs": [
+     "65:7"
+    ],
+    "en": "Let a man of wealth spend from his wealth, and he whose provision is restricted – let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease.",
+    "why": "Even the verse about spending acknowledges those with little, and ends with a promise.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:268",
+    "ayahs": [
+     "2:268"
+    ],
+    "en": "Satan threatens you with poverty and orders you to immorality, while Allah promises you forgiveness from Him and bounty. And Allah is all-Encompassing and Knowing.",
+    "why": "Fear of poverty is one of Satan’s oldest whispers. Don’t let it push you into anything haram.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "62:10",
+    "ayahs": [
+     "62:10"
+    ],
+    "en": "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allah, and remember Allah often that you may succeed.",
+    "why": "Seeking provision is encouraged. Work is worship when done honestly.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "29:60",
+    "ayahs": [
+     "29:60"
+    ],
+    "en": "And how many a creature carries not its [own] provision. Allah provides for it and for you. And He is the Hearing, the Knowing.",
+    "why": "A verse to read the next time you doomscroll the cost of living.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "51:22",
+    "ayahs": [
+     "51:22"
+    ],
+    "en": "And in the heaven is your provision and what you are promised.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "If you were to rely on Allah as He should be relied upon, He would provide for you as He provides for the birds: they go out in the morning hungry and return in the evening full.",
+    "by": "ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2344
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan Ṣaḥīḥ"
+   },
+   {
+    "en": "Wealth is not in having many possessions; true wealth is the richness of the soul.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6446
+     ],
+     [
+      "muslim",
+      1051
+     ]
+    ],
+    "why": "Contentment (qanāʿah) is a kind of income no market crash can touch.",
+    "grade": null
+   },
+   {
+    "en": "No one has ever eaten better food than that which he has earned by the work of his own hands. And the Prophet of Allah, Dāwūd ﷺ, used to eat from the work of his hands.",
+    "by": "al-Miqdām ibn Maʿdīkarib (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      2072
+     ]
+    ],
+    "why": "Dignity in working, whatever the job.",
+    "grade": null
+   },
+   {
+    "en": "Look at those who are below you, and do not look at those who are above you; that is more fitting so that you do not belittle the favours of Allah upon you.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2963
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Whoever among you wakes up secure in his surroundings, healthy in his body, with his food for the day, it is as if the whole world has been gathered for him.",
+    "by": "ʿUbaydullāh ibn Miḥṣan al-Anṣārī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2346
+     ]
+    ],
+    "why": "A gratitude check when your bank balance is low.",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "Whoever remains patient, Allah will make him patient. Whoever seeks to be independent of need, Allah will make him independent. No one is given a gift better and more vast than patience.",
+    "by": "Abū Saʿīd al-Khudrī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1469
+     ],
+     [
+      "muslim",
+      1053
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "ali_debt",
+   "hamm"
+  ],
+  "steps": [
+   "Write down every number: what comes in, what goes out, what you owe. Fear shrinks when it has numbers.",
+   "Choose one thing to cut and one skill or income step to build this month.",
+   "Avoid interest-based debt where possible. If you are already in it, make a plan with a trusted adviser and do not despair.",
+   "Make the du’a for halal provision after each prayer."
+  ],
+  "related": [
+   "future",
+   "anxiety",
+   "comparison"
+  ],
+  "start": {
+   "v": 0,
+   "h": 1,
+   "d": "ali_debt",
+   "plain": "Work honestly, plan carefully, and know that provision is written. Your worth is not your balance."
+  }
+ },
+ {
+  "slug": "comparison",
+  "group": "mind",
+  "hue": 290,
+  "glyph": "❖",
+  "title": "Comparison & Low Self-Esteem",
+  "tagline": "When everyone online seems to be doing better than you",
+  "intro": "Social media shows highlight reels. The Qur’an and the Prophet ﷺ speak directly to the sickness of comparing: your worth with Allah is not measured in followers, looks or lifestyle.",
+  "verses": [
+   {
+    "ref": "49:13",
+    "ayahs": [
+     "49:13"
+    ],
+    "en": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Aware.",
+    "why": "The only ranking Allah announces is taqwā.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "95:4",
+    "ayahs": [
+     "95:4"
+    ],
+    "en": "We have certainly created man in the best of stature.",
+    "why": "You were designed with care.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "17:70",
+    "ayahs": [
+     "17:70"
+    ],
+    "en": "And We have certainly honoured the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
+    "why": "Honoured at the level of being human, before any achievement.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "4:32",
+    "ayahs": [
+     "4:32"
+    ],
+    "en": "And do not wish for that by which Allah has made some of you exceed others. For men is a share of what they have earned, and for women is a share of what they have earned. And ask Allah of His bounty. Indeed Allah is ever, of all things, Knowing.",
+    "why": "Don’t covet. Ask. Allah invites you to ask Him for His bounty instead of resenting others’.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "20:131",
+    "ayahs": [
+     "20:131"
+    ],
+    "en": "And do not extend your eyes toward that by which We have given enjoyment to [certain] categories of them, [its being but] the splendour of worldly life by which We test them. And the provision of your Lord is better and more enduring.",
+    "why": "Looking longingly at other people’s “splendour” is addressed directly.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "102:1-2",
+    "ayahs": [
+     "102:1",
+     "102:2"
+    ],
+    "en": "Competition in [worldly] increase diverts you, until you visit the graveyards.",
+    "why": "A warning about the endless race for more.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "57:22-23",
+    "ayahs": [
+     "57:22",
+     "57:23"
+    ],
+    "en": "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being. Indeed that, for Allah, is easy. In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allah does not like everyone self-deluded and boastful.",
+    "why": "What missed you was never going to be yours, and what reached you was never going to miss you.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Look at those who are below you, and do not look at those who are above you; that is more fitting so that you do not belittle the favours of Allah upon you.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2963
+     ]
+    ],
+    "why": "A direct instruction for scrolling.",
+    "grade": null
+   },
+   {
+    "en": "Allah does not look at your bodies or your appearances, but He looks at your hearts and your deeds.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2564
+     ]
+    ],
+    "why": "The filters, the angles and the follower counts are not what He looks at.",
+    "grade": null
+   },
+   {
+    "en": "Wealth is not in having many possessions; true wealth is the richness of the soul.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6446
+     ],
+     [
+      "muslim",
+      1051
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Do not envy one another, do not outbid one another [to inflate prices], do not hate one another, do not turn away from one another… and be servants of Allah, brothers.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2564
+     ]
+    ],
+    "why": "From the same long hadith.",
+    "grade": null
+   },
+   {
+    "en": "Whoever among you wakes up secure in his surroundings, healthy in his body, with his food for the day, it is as if the whole world has been gathered for him.",
+    "by": "ʿUbaydullāh ibn Miḥṣan al-Anṣārī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2346
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan"
+   }
+  ],
+  "duas": [],
+  "steps": [
+   "Mute or unfollow accounts that leave you feeling smaller. Your heart is not a content farm.",
+   "Each night write three specific blessings you have. Gratitude trains attention.",
+   "Compare yourself only to yourself of last year: are you closer to Allah, kinder, more skilled?",
+   "Invest in one real, offline friendship or skill this week."
+  ],
+  "related": [
+   "behind",
+   "loneliness",
+   "attention"
+  ],
+  "start": {
+   "v": 0,
+   "h": 1,
+   "d": null,
+   "plain": "The only ranking Allah announces is taqwā. A feed can’t show your heart."
+  }
+ },
+ {
+  "slug": "behind",
+  "group": "mind",
+  "hue": 18,
+  "glyph": "➶",
+  "title": "Fear of Falling Behind",
+  "tagline": "When it feels like life is a race and you’re losing",
+  "intro": "Everyone seems to have a plan, a job, a body, a business. But Allah’s timeline for you is unique. “Late” is a human word; the Qur’an teaches “in its appointed time”.",
+  "verses": [
+   {
+    "ref": "65:3",
+    "ayahs": [
+     "65:3"
+    ],
+    "en": "And will provide for him from where he does not expect. And whoever relies upon Allah – then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+    "why": "Everything has a decreed measure, including the timing of your breakthroughs.",
+    "arabic": true,
+    "note": "Arabic of verse 3 shown; the opening clause continues from verse 2."
+   },
+   {
+    "ref": "12:21",
+    "ayahs": [],
+    "en": "…And Allah is predominant over His affair, but most of the people do not know.",
+    "why": "Said in the story of Yūsuf ﷺ, whose road went through a well, slavery and prison before it reached success. Part of verse 12:21.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "2:216",
+    "ayahs": [],
+    "en": "…But perhaps you dislike a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.",
+    "why": "That job you did not get, the door that closed: you may be seeing a mercy from behind. Part of verse 2:216.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "57:22-23",
+    "ayahs": [
+     "57:22",
+     "57:23"
+    ],
+    "en": "No disaster strikes upon the earth or among yourselves except that it is in a register before We bring it into being. Indeed that, for Allah, is easy. In order that you not despair over what has eluded you and not exult [in pride] over what He has given you. And Allah does not like everyone self-deluded and boastful.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "29:69",
+    "ayahs": [
+     "29:69"
+    ],
+    "en": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+    "why": "Keep moving; guidance comes to the one who is walking.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "53:39-40",
+    "ayahs": [
+     "53:39",
+     "53:40"
+    ],
+    "en": "And that there is not for man except that [good] for which he strives. And that his effort is going to be seen.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "94:7-8",
+    "ayahs": [
+     "94:7",
+     "94:8"
+    ],
+    "en": "So when you have finished [your duties], then stand up [for worship]. And to your Lord direct [your longing].",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up. If something befalls you, do not say, ‘If only I had done such-and-such,’ but say, ‘Allah has decreed, and what He willed He did.’",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "Use the energy of regret to move forward, not to look back.",
+    "grade": null
+   },
+   {
+    "en": "The most beloved deeds to Allah are the most consistent, even if they are small.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      6464
+     ],
+     [
+      "muslim",
+      783
+     ]
+    ],
+    "why": "You do not need a dramatic overnight transformation.",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "Not a guilt trip, but an invitation to use today.",
+    "grade": null
+   },
+   {
+    "en": "How wonderful is the affair of the believer! All of his affairs are good for him… If something good happens to him, he is grateful, and that is good for him. If something harmful happens to him, he is patient, and that is good for him.",
+    "by": "Ṣuhayb ibn Sinān (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2999
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "qadar",
+   "zidni"
+  ],
+  "steps": [
+   "Replace “I’m behind” with a concrete question: what is the very next step in front of me?",
+   "Pick one thing to improve this month and one thing to deliberately not improve. Rest is a skill.",
+   "Ask someone 5–10 years ahead for their honest story. It will probably include detours.",
+   "Revisit your prayers as the anchor of the day. Everything else can flex around them."
+  ],
+  "related": [
+   "comparison",
+   "future",
+   "burnout"
+  ],
+  "start": {
+   "v": 0,
+   "h": 1,
+   "d": "qadar",
+   "plain": "Your timeline is yours. Keep taking the next small step."
+  }
+ },
+ {
+  "slug": "burnout",
+  "group": "mind",
+  "hue": 8,
+  "glyph": "✦",
+  "title": "Burnout & Exhaustion",
+  "tagline": "Tired even after resting, and motivation has gone",
+  "intro": "The “always improve yourself” mindset is exhausting. The Prophet ﷺ repeatedly taught moderation and warned against overburdening yourself, even in worship.",
+  "verses": [
+   {
+    "ref": "4:28",
+    "ayahs": [
+     "4:28"
+    ],
+    "en": "And Allah wants to lighten for you [your difficulties]; and mankind was created weak.",
+    "why": "Weakness is built into being human. Allah knows it and wants to lighten your load.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:185",
+    "ayahs": [],
+    "en": "…Allah intends for you ease and does not intend for you hardship…",
+    "why": "Part of verse 2:185.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "22:78",
+    "ayahs": [],
+    "en": "…He has not placed upon you in the religion any difficulty…",
+    "why": "Part of verse 22:78.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "94:1-3",
+    "ayahs": [
+     "94:1",
+     "94:2",
+     "94:3"
+    ],
+    "en": "Did We not expand for you, [O Muhammad], your breast? And We removed from you your burden, which had weighed upon your back.",
+    "why": "He ﷺ carried a heavy load, and Allah mentions lifting it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "78:9-11",
+    "ayahs": [
+     "78:9",
+     "78:10",
+     "78:11"
+    ],
+    "en": "And made your sleep [a means for] rest. And made the night as clothing. And made the day for livelihood.",
+    "why": "Rest is a designed part of the day, not laziness.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "16:97",
+    "ayahs": [
+     "16:97"
+    ],
+    "en": "Whoever does righteousness, whether male or female, while he is a believer – We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.",
+    "why": "A “good life” (ḥayātan ṭayyibah) is promised; not a perfect one, but a good one.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:286",
+    "ayahs": [
+     "2:286"
+    ],
+    "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our Protector…”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The religion is ease, and no one overburdens himself in the religion except that it overcomes him. So be moderate, stay close to the mark, give glad tidings, and seek help in the morning, in the afternoon, and in part of the night.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      39
+     ]
+    ],
+    "why": "Even about worship, the Prophet ﷺ warns against pushing past your limit.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ saw a rope hanging between two pillars and asked, “What is this?” They said, “It is for Zaynab; when she gets tired she holds on to it.” He said, “Untie it. Let each of you pray while he is energetic, and when he becomes tired, let him rest.”",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1150
+     ],
+     [
+      "muslim",
+      784
+     ]
+    ],
+    "why": "A direct instruction to stop forcing yourself when you are exhausted.",
+    "grade": null
+   },
+   {
+    "en": "^To ʿAbdullāh ibn ʿAmr, who was fasting every day and praying all night, the Prophet ﷺ said: “Do not do that. Fast and break the fast, pray and sleep. For your body has a right over you, your eyes have a right over you, and your family has a right over you.”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "Your body’s rights are part of your faith.",
+    "grade": null
+   },
+   {
+    "en": "^Salmān told Abū Dardā’: “Your Lord has a right over you, your soul has a right over you, and your family has a right over you, so give each its due.” The Prophet ﷺ said: “Salmān has spoken the truth.”",
+    "by": "Abū Juḥayfah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1968
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^“Do good deeds properly, sincerely and moderately, and know that none of you will enter Paradise by his deeds alone.” They asked, “Not even you, O Messenger of Allah?” He said, “Not even me, unless Allah envelops me in His mercy.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6463
+     ],
+     [
+      "muslim",
+      2816
+     ]
+    ],
+    "why": "You cannot “earn” your way into mercy, so you can stop performing.",
+    "grade": null
+   },
+   {
+    "en": "The most beloved deeds to Allah are the most consistent, even if they are small.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      6464
+     ],
+     [
+      "muslim",
+      783
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "hamm",
+   "musa"
+  ],
+  "steps": [
+   "Pick one thing to drop this week. Burnout is usually a signal that something has to go.",
+   "Protect a daily non-productive window (a walk, a meal, nothing on a screen).",
+   "Lower the bar on purpose: do the minimum version of your habits, not zero.",
+   "If exhaustion has lasted weeks, speak to a doctor. Sleep, iron, thyroid, vitamin D and mood can all play a part."
+  ],
+  "related": [
+   "pressure",
+   "sleep",
+   "depression"
+  ],
+  "start": {
+   "v": 0,
+   "h": 1,
+   "d": "hamm",
+   "plain": "Rest is a right, not a reward. The Prophet ﷺ told us to ease off when tired."
+  }
+ },
+ {
+  "slug": "loneliness",
+  "group": "mind",
+  "hue": 250,
+  "glyph": "☾",
+  "title": "Loneliness & Feeling Misunderstood",
+  "tagline": "Hundreds of followers; almost no one who truly knows you",
+  "intro": "Loneliness is not a flaw in you. Allah is near, and He also created us to need each other. Here is comfort for the lonely heart and a path toward real companionship.",
+  "verses": [
+   {
+    "ref": "2:186",
+    "ayahs": [
+     "2:186"
+    ],
+    "en": "And when My servants ask you, [O Muhammad], concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+    "why": "Nothing between you and Him. No appointment needed, no middleman.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "50:16",
+    "ayahs": [
+     "50:16"
+    ],
+    "en": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein.",
+    "why": "Someone knows what you can’t put into words.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "9:40",
+    "ayahs": [
+     "9:40"
+    ],
+    "en": "If you do not aid him [the Prophet], Allah has already aided him when those who disbelieved had driven him out [of Makkah] as one of two, when they were in the cave and he said to his companion, “Do not grieve; indeed Allah is with us.” And Allah sent down his tranquillity upon him and supported him with soldiers you did not see and made the word of those who disbelieved the lowest, while the word of Allah – that is the highest. And Allah is Exalted in Might and Wise.",
+    "why": "The Prophet ﷺ in the cave with one companion, hunted and displaced, and still: “Allah is with us.”",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "19:96",
+    "ayahs": [
+     "19:96"
+    ],
+    "en": "Indeed, those who have believed and done righteous deeds – the Most Merciful will appoint for them affection.",
+    "why": "Allah Himself places love in hearts. Keep doing good and keep your heart open.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "18:28",
+    "ayahs": [
+     "18:28"
+    ],
+    "en": "And keep yourself [O Muhammad] patient [by being] with those who call upon their Lord in the morning and the evening, desiring His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.",
+    "why": "Seek company that reminds you of Allah, even if it is a small circle.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:103",
+    "ayahs": [
+     "3:103"
+    ],
+    "en": "And hold firmly to the rope of Allah all together and do not become divided. And remember the favour of Allah upon you – when you were enemies and He brought your hearts together and you became, by His favour, brothers. And you were on the edge of a pit of the Fire and He saved you from it. Thus does Allah make clear to you His verses that you may be guided.",
+    "why": "Hearts that were hostile became brothers. Allah can do that for you too.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "49:10",
+    "ayahs": [
+     "49:10"
+    ],
+    "en": "The believers are but brothers, so make settlement between your brothers. And fear Allah that you may receive mercy.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "21:89",
+    "ayahs": [
+     "21:89"
+    ],
+    "en": "And [mention] Zechariah, when he called to his Lord, “My Lord, do not leave me alone [without an heir], while You are the best of inheritors.”",
+    "why": "He was asking for a child, but many lonely hearts feel these words: “do not leave me alone”.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^Allah says: “I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; and if he remembers Me in a gathering, I remember him in a better gathering.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      7405
+     ],
+     [
+      "muslim",
+      2675
+     ]
+    ],
+    "why": "Even when no human is near, you are remembered in a better gathering.",
+    "grade": null
+   },
+   {
+    "en": "Islam began as something strange and will return to being strange as it began, so glad tidings to the strangers.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      145
+     ]
+    ],
+    "why": "If you feel like an outsider, you are in the company of many sincere people before you.",
+    "grade": null
+   },
+   {
+    "en": "The believers in their mutual love, mercy and compassion are like one body: when one part complains, the whole body responds with sleeplessness and fever.",
+    "by": "an-Nuʿmān ibn Bashīr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6011
+     ],
+     [
+      "muslim",
+      2586
+     ]
+    ],
+    "why": "You were meant to be part of a body, not a lone limb.",
+    "grade": null
+   },
+   {
+    "en": "^“A believer to a believer is like a building: each part strengthens the other.” And he interlaced his fingers.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      481
+     ],
+     [
+      "muslim",
+      2585
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The example of a good companion and a bad companion is like a seller of musk and a blacksmith’s bellows. The musk seller will either give you some, or you will buy from him, or at least you will find a pleasant fragrance. The blacksmith will either burn your clothes or you will find an unpleasant smell.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5534
+     ],
+     [
+      "muslim",
+      2628
+     ]
+    ],
+    "why": "Quality over quantity in friendships.",
+    "grade": null
+   },
+   {
+    "en": "^Among the seven whom Allah will shade on the Day when there is no shade but His: “two men who love each other for the sake of Allah, meeting and parting upon that.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      660
+     ],
+     [
+      "muslim",
+      1031
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Whoever relieves a believer of a distress from the distresses of this world, Allah will relieve him of a distress from the distresses of the Day of Resurrection… and Allah helps His servant as long as the servant is helping his brother.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2699
+     ]
+    ],
+    "why": "One of the best cures for loneliness is helping someone else.",
+    "grade": null
+   },
+   {
+    "en": "The prayer in congregation is twenty-seven degrees more virtuous than the prayer of an individual.",
+    "by": "ʿAbdullāh ibn ʿUmar (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      645
+     ],
+     [
+      "muslim",
+      650
+     ]
+    ],
+    "why": "Belonging is built in. Showing up regularly at the masjid creates familiar faces.",
+    "grade": null
+   }
+  ],
+  "story": {
+   "title": "In the cave: “What do you think of two whose third is Allah?”",
+   "body": [
+    "During the Hijrah the Prophet ﷺ and Abū Bakr (may Allah be pleased with him) hid in the cave of Thawr while Quraysh searched for them. Abū Bakr said: “O Messenger of Allah, if one of them looked down at his feet, he would see us.”",
+    "The Prophet ﷺ replied: “O Abū Bakr, what do you think of two whose third is Allah?” (Ṣaḥīḥ al-Bukhārī 3653). The Qur’an records the same moment: “Do not grieve; indeed Allah is with us” (9:40)."
+   ],
+   "src": [
+    [
+     "bukhari",
+     3653
+    ]
+   ]
+  },
+  "duas": [
+   "zakariya"
+  ],
+  "steps": [
+   "Text one person today. Not a story or a reaction, a real message: “Thinking of you. How are you?”",
+   "Go to a masjid, halaqah, volunteering group or class at the same time each week. Familiarity grows friendship.",
+   "Aim for two or three deep friendships rather than hundreds of shallow ones.",
+   "Be the one who relieves someone else’s distress. It often opens the door to your own."
+  ],
+  "related": [
+   "depression",
+   "comparison",
+   "overwhelm"
+  ],
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "zakariya",
+   "plain": "You are remembered and near to Allah, even when no one else is near. Then take one small step towards people."
+  }
+ },
+ {
+  "slug": "future",
+  "group": "mind",
+  "hue": 195,
+  "glyph": "◇",
+  "title": "Fear of the Future",
+  "tagline": "Jobs, AI, the economy, relationships, housing",
+  "intro": "No generation has had so many unknowns thrown at it at once. The Qur’an doesn’t promise a predictable future; it promises that the One who holds the future is Merciful, and it gives you a way to act without being consumed by fear.",
+  "callout": {
+   "title": "On jobs, AI and a changing world",
+   "body": "The Qur’an and Sunnah do not forecast job markets, but they do give a pattern: learn (20:114), work honestly with your own hands (Ṣaḥīḥ al-Bukhārī 2072), make a plan, and rely on Allah (3:159). Skills change; Allah as your Provider does not."
+  },
+  "verses": [
+   {
+    "ref": "3:159",
+    "ayahs": [
+     "3:159"
+    ],
+    "en": "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].",
+    "why": "Consult, decide, rely. That’s the whole method.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "65:3",
+    "ayahs": [
+     "65:3"
+    ],
+    "en": "And will provide for him from where he does not expect. And whoever relies upon Allah – then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+    "why": "Verse 2 before it says: “And whoever fears Allah – He will make for him a way out.”",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "41:30",
+    "ayahs": [
+     "41:30"
+    ],
+    "en": "Indeed, those who have said, “Our Lord is Allah,” and then remained on a right course – the angels will descend upon them, [saying], “Do not fear and do not grieve, but receive good tidings of Paradise, which you were promised.”",
+    "why": "Steadiness today is how you meet tomorrow.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:216",
+    "ayahs": [],
+    "en": "…But perhaps you dislike a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.",
+    "why": "The future that scares you may contain mercies you cannot see yet. Part of verse 2:216.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "11:6",
+    "ayahs": [
+     "11:6"
+    ],
+    "en": "And there is no creature on earth but that upon Allah is its provision, and He knows its place of dwelling and place of storage. All is in a clear register.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "30:21",
+    "ayahs": [
+     "30:21"
+    ],
+    "en": "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.",
+    "why": "On relationship anxiety: affection and mercy are placed by Allah, not engineered by apps.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "24:32",
+    "ayahs": [],
+    "en": "…If they should be poor, Allah will enrich them from His bounty, and Allah is all-Encompassing and Knowing.",
+    "why": "On the fear that you can’t afford to marry or settle down. Part of verse 24:32.",
+    "arabic": false,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "If you were to rely on Allah as He should be relied upon, He would provide for you as He provides for the birds: they go out in the morning hungry and return in the evening full.",
+    "by": "ʿUmar ibn al-Khaṭṭāb (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2344
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan Ṣaḥīḥ"
+   },
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up. If something befalls you, do not say, ‘If only I had done such-and-such,’ but say, ‘Allah has decreed, and what He willed He did,’ for ‘if only’ opens the door to Satan’s work.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ taught us istikhārah in all matters just as he taught us a sūrah of the Qur’an. He said: “If one of you is concerned about a matter, let him pray two voluntary rakʿahs, then say: O Allah, I seek Your guidance through Your knowledge… [and he asks that the matter be decreed if it is good for his religion, his livelihood and the outcome of his affairs, and turned away if it is bad].”",
+    "by": "Jābir ibn ʿAbdillāh (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1162
+     ]
+    ],
+    "why": "A way of handing a decision to Allah after you’ve done your thinking. Full du’a is on the Du’as page.",
+    "grade": null
+   },
+   {
+    "en": "O young men! Whoever among you is able to marry, let him marry, for it lowers the gaze and protects chastity; and whoever is not able, let him fast, for it is a shield for him.",
+    "by": "ʿAbdullāh ibn Masʿūd (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5066
+     ],
+     [
+      "muslim",
+      1400
+     ]
+    ],
+    "why": "The Prophet ﷺ addressed youth directly about relationships and the fear around it.",
+    "grade": null
+   },
+   {
+    "en": "No one has ever eaten better food than that which he has earned by the work of his own hands.",
+    "by": "al-Miqdām ibn Maʿdīkarib (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      2072
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "How wonderful is the affair of the believer! All of his affairs are good for him… If something good happens to him, he is grateful… If something harmful happens to him, he is patient, and that is good for him.",
+    "by": "Ṣuhayb ibn Sinān (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2999
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "istikhara",
+   "hasbuna",
+   "qadar"
+  ],
+  "steps": [
+   "Separate today’s worries into “can act on” and “can’t control”. Act on the first list; make du’a over the second.",
+   "Build one transferable skill per quarter. You’re not behind; you’re compounding.",
+   "Talk to people a few steps ahead of you in your field about what’s actually changing.",
+   "Pray istikhārah for big decisions, then move."
+  ],
+  "related": [
+   "money",
+   "anxiety",
+   "behind"
+  ],
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "istikhara",
+   "plain": "Think, plan, consult, decide, then rely on Allah. The future is in kind hands."
+  }
+ },
+ {
+  "slug": "attention",
+  "group": "mind",
+  "hue": 322,
+  "glyph": "⌁",
+  "title": "Scrolling, Focus & Procrastination",
+  "tagline": "Scroll → distraction → guilt → scroll again",
+  "intro": "The loop is exhausting: you scroll, can’t focus, procrastinate, feel guilty and scroll more. The Qur’an and Sunnah already speak about time, idle distraction and – crucially – about coming back without shame.",
+  "verses": [
+   {
+    "ref": "23:1-3",
+    "ayahs": [
+     "23:1",
+     "23:2",
+     "23:3"
+    ],
+    "en": "Certainly will the believers have succeeded: they who are during their prayer humbly submissive, and they who turn away from ill speech [and vain talk].",
+    "why": "Success is linked to attention in prayer and turning away from the pointless.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "103:1-3",
+    "ayahs": [
+     "103:1",
+     "103:2",
+     "103:3"
+    ],
+    "en": "By time, indeed, mankind is in loss, except for those who believe and do righteous deeds and advise each other to truth and advise each other to patience.",
+    "why": "Time is a witness. The way out is purpose and good company.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "63:9",
+    "ayahs": [
+     "63:9"
+    ],
+    "en": "O you who have believed, let not your wealth and your children divert you from the remembrance of Allah. And whoever does that – then those are the losers.",
+    "why": "Diversion is the issue, not only sin. Anything can become the thing that takes the place of remembrance.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "17:36",
+    "ayahs": [
+     "17:36"
+    ],
+    "en": "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart – about all those [one] will be questioned.",
+    "why": "Your eyes, ears and heart are trusts.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:72",
+    "ayahs": [
+     "25:72"
+    ],
+    "en": "And [they are] those who do not testify to falsehood, and when they pass near ill speech, they pass by with dignity.",
+    "why": "You’re allowed to simply scroll past.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "39:53",
+    "ayahs": [
+     "39:53"
+    ],
+    "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+    "why": "This is the line that breaks the loop of guilt: come back, again.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "33:41",
+    "ayahs": [
+     "33:41"
+    ],
+    "en": "O you who have believed, remember Allah with much remembrance.",
+    "why": "Fill the small gaps (the queue, the wait, the commute) with dhikr instead of the feed.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "Free time is a blessing, and you can lose it by not noticing it.",
+    "grade": null
+   },
+   {
+    "en": "Part of the excellence of a person’s Islam is his leaving that which does not concern him.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2317
+     ]
+    ],
+    "why": "A one-line filter for your feed.",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "Every son of Adam makes mistakes, and the best of those who make mistakes are those who repent.",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2499
+     ]
+    ],
+    "why": "After the slip, the best move is to return, not to spiral.",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "By the One in whose hand is my soul, if you did not sin, Allah would remove you and bring a people who would sin, then seek forgiveness from Allah, and He would forgive them.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2749
+     ]
+    ],
+    "why": "Allah loves the one who turns back. Shame is not the point.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ asked: “What do you think if there were a river at the door of one of you in which he bathed five times every day; would any dirt remain on him?” They said, “No dirt would remain.” He said: “That is like the five prayers; by them Allah erases sins.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      528
+     ],
+     [
+      "muslim",
+      667
+     ]
+    ],
+    "why": "Five built-in resets a day. Use them as screen-free stops.",
+    "grade": null
+   },
+   {
+    "en": "Whoever believes in Allah and the Last Day, let him speak good or remain silent.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6018
+     ],
+     [
+      "muslim",
+      47
+     ]
+    ],
+    "why": "Also a good rule for comment sections.",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "hamm"
+  ],
+  "steps": [
+   "Charge your phone outside your reach at night, and keep the first 30 minutes of the day for you and Allah.",
+   "Use prayer times as anchors: put the phone away for the prayer and 5 minutes after.",
+   "Turn off non-human notifications. Keep only calls and messages from people.",
+   "When you slip, shorten the guilt: say astaghfirullāh, stand up, and do the next small task.",
+   "Work in 25-minute focused blocks with a phone-free break in between."
+  ],
+  "related": [
+   "burnout",
+   "overwhelm",
+   "sleep"
+  ],
+  "start": {
+   "v": 5,
+   "h": 2,
+   "d": "hamm",
+   "plain": "Come back without shame. Allah loves the one who returns, and the prayers are built-in resets."
+  }
+ },
+ {
+  "slug": "overwhelm",
+  "group": "mind",
+  "hue": 230,
+  "glyph": "❍",
+  "title": "Overwhelmed by News & Online Arguments",
+  "tagline": "Disasters, conflict and comment-section wars, all day",
+  "intro": "You may care deeply, and that is a good thing, but a heart not built to carry the whole world’s suffering every minute will eventually crack. Here is how the Qur’an and Sunnah guide care, restraint and rest.",
+  "callout": {
+   "title": "Caring without collapsing",
+   "body": "The Prophet ﷺ described believers as one body who feel each other’s pain (Ṣaḥīḥ al-Bukhārī 6011). That care is real, but so is your capacity: “Allah does not charge a soul except [with that within] its capacity” (2:286). Give what you can, make du’a, then step back and rest."
+  },
+  "verses": [
+   {
+    "ref": "49:6",
+    "ayahs": [
+     "49:6"
+    ],
+    "en": "O you who have believed, if there comes to you a disobedient one with information, investigate, lest you harm a people out of ignorance and become, over what you have done, regretful.",
+    "why": "Verify before you share or react. A big part of online overwhelm is unchecked noise.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:63",
+    "ayahs": [
+     "25:63"
+    ],
+    "en": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.",
+    "why": "Not every provocation needs a reply.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "41:34-35",
+    "ayahs": [
+     "41:34",
+     "41:35"
+    ],
+    "en": "And not equal are the good deed and the bad deed. Repel [evil] by that which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend. But none is granted it except those who are patient, and none is granted it except one having a great portion [of good].",
+    "why": "A better response can change the person, or at least keeps you from being changed by them.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "7:199",
+    "ayahs": [
+     "7:199"
+    ],
+    "en": "Take what is given freely, enjoin what is good, and turn away from the ignorant.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "14:42",
+    "ayahs": [
+     "14:42"
+    ],
+    "en": "And never think that Allah is unaware of that which the wrongdoers do. He only delays them for a Day when eyes will stare [in horror].",
+    "why": "For injustice you see and cannot fix: it is not unseen.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:173",
+    "ayahs": [
+     "3:173"
+    ],
+    "en": "Those to whom people said, “Indeed, the people have gathered against you, so fear them.” But it increased them in faith, and they said, “Sufficient for us is Allah, and [He is] the best Disposer of affairs.”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "13:28",
+    "ayahs": [
+     "13:28"
+    ],
+    "en": "Those who have believed, and whose hearts find peace in the remembrance of Allah. Truly, in the remembrance of Allah do hearts find peace.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The believers in their mutual love, mercy and compassion are like one body: when one part complains, the whole body responds with sleeplessness and fever.",
+    "by": "an-Nuʿmān ibn Bashīr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6011
+     ],
+     [
+      "muslim",
+      2586
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Whoever believes in Allah and the Last Day, let him speak good or remain silent.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6018
+     ],
+     [
+      "muslim",
+      47
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "A Muslim is the one from whose tongue and hand the Muslims are safe.",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      10
+     ],
+     [
+      "muslim",
+      40
+     ]
+    ],
+    "why": "A test for online conduct, too.",
+    "grade": null
+   },
+   {
+    "en": "The strong person is not the one who overpowers others in wrestling; the strong person is the one who controls himself in anger.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6114
+     ],
+     [
+      "muslim",
+      2609
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^A man said to the Prophet ﷺ, “Advise me.” He said: “Do not become angry.” The man repeated it several times, and he said each time: “Do not become angry.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6116
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Part of the excellence of a person’s Islam is his leaving that which does not concern him.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2317
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan"
+   }
+  ],
+  "duas": [
+   "hasbuna",
+   "karb"
+  ],
+  "steps": [
+   "Pick two fixed times a day to check news. Outside those times, leave it.",
+   "Convert helplessness into action: donate, volunteer, or make a specific du’a for the people you saw.",
+   "Don’t argue with strangers. Mute, block, move on.",
+   "Make wuḍū’ when you’re worked up. It is a physical pause in your day."
+  ],
+  "related": [
+   "anxiety",
+   "attention",
+   "loneliness"
+  ],
+  "start": {
+   "v": 5,
+   "h": 0,
+   "d": "hasbuna",
+   "plain": "Care, then step back. You are not asked to carry the whole world."
+  }
+ },
+ {
+  "slug": "sleep",
+  "group": "body",
+  "hue": 240,
+  "glyph": "☽",
+  "title": "Sleep Problems",
+  "tagline": "Too late, too little, too much phone",
+  "intro": "Sleep is not wasted time in Islam. It is mentioned as a mercy, a sign and a design. The Sunnah also gives a bedtime routine that many people find calming.",
+  "verses": [
+   {
+    "ref": "78:9-11",
+    "ayahs": [
+     "78:9",
+     "78:10",
+     "78:11"
+    ],
+    "en": "And made your sleep [a means for] rest. And made the night as clothing. And made the day for livelihood.",
+    "why": "Night for rest, day for work. When we flip it, we feel it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:47",
+    "ayahs": [
+     "25:47"
+    ],
+    "en": "And it is He who has made for you the night as clothing and sleep [a means of] rest and has made the day [a time of] resurrection.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "28:73",
+    "ayahs": [
+     "28:73"
+    ],
+    "en": "And out of His mercy He made for you the night and the day that you may rest therein and [by day] seek from His bounty and that perhaps you will be grateful.",
+    "why": "Rest is listed as mercy.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:255",
+    "ayahs": [
+     "2:255"
+    ],
+    "en": "Allah – there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursī extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great.",
+    "why": "Ayat al-Kursī. He never sleeps, so you can: the world is being held without your supervision.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:285-286",
+    "ayahs": [
+     "2:285",
+     "2:286"
+    ],
+    "en": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allah and His angels and His books and His messengers, [saying], “We make no distinction between any of His messengers.” And they say, “We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.” Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. “Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our Protector, so give us victory over the disbelieving people.”",
+    "why": "The last two verses of Sūrat al-Baqarah, recommended at night.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The Prophet ﷺ disliked sleeping before the ʿIshāʾ prayer and talking after it.",
+    "by": "Abū Barzah al-Aslamī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      568
+     ],
+     [
+      "muslim",
+      647
+     ]
+    ],
+    "why": "Scholars explain the “talking” as idle conversation that delays sleep and the pre-dawn prayer; beneficial talk (like study or family matters) is treated differently.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “When you go to your bed, perform wuḍūʾ as for prayer, then lie on your right side and say: O Allah, I submit myself to You, I entrust my affairs to You, I turn my face to You and I rely on You, out of hope and fear of You. There is no refuge and no escape from You except to You. I believe in Your Book which You revealed and Your Prophet whom You sent.” And he said: “If you die that night, you will die upon the fiṭrah, and make these the last words you say.”",
+    "by": "al-Barāʾ ibn ʿĀzib (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      247
+     ],
+     [
+      "muslim",
+      2710
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^Whenever the Prophet ﷺ went to his bed each night, he would cup his hands together, blow into them and recite into them Sūrat al-Ikhlāṣ, Sūrat al-Falaq and Sūrat an-Nās, then wipe with them over as much of his body as he could, starting with his head, face and the front of his body. He would do that three times.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      5017
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The one who recites Āyat al-Kursī when going to bed will have a guardian from Allah over him, and Satan will not come near him until morning.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      2311
+     ]
+    ],
+    "why": "Abū Hurayrah was guarding charity dates when someone came and taught him this. The Prophet ﷺ confirmed it, saying: “He told you the truth, though he is a liar.”",
+    "grade": null
+   },
+   {
+    "en": "Whoever recites the last two verses of Sūrat al-Baqarah at night, they will suffice him.",
+    "by": "Abū Masʿūd al-Badrī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5009
+     ],
+     [
+      "muslim",
+      807
+     ]
+    ],
+    "why": "Scholars mention several meanings of “suffice”, including protection and counting as sufficient night worship.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “If one of you becomes drowsy while praying, let him sleep until his drowsiness is gone, for if one of you prays while drowsy he may not know whether he is asking forgiveness or insulting himself.”",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      212
+     ]
+    ],
+    "why": "The Prophet ﷺ himself put sleep above forcing yourself through worship while exhausted.",
+    "grade": null
+   },
+   {
+    "en": "^Allah descends to the lowest heaven in the last third of every night and says: “Who is calling upon Me that I may answer him? Who is asking of Me that I may give him? Who is seeking My forgiveness that I may forgive him?”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1145
+     ],
+     [
+      "muslim",
+      758
+     ]
+    ],
+    "why": "If you’re awake in the dark hours anyway, here’s a way to use the time.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said to ʿAbdullāh ibn ʿAmr: “Fast and break the fast, pray and sleep. For your body has a right over you, your eyes have a right over you…”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The two rakʿahs before Fajr are better than the world and all that is in it.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "muslim",
+      725
+     ]
+    ],
+    "why": "A reason to want an actual bedtime.",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "sleep",
+   "wake"
+  ],
+  "widget": "breath",
+  "steps": [
+   "Pick a fixed wake-up time, including weekends. Your body clock loves a pattern.",
+   "Put the phone on a charger across the room 45–60 minutes before bed.",
+   "Dim lights, avoid caffeine in the late afternoon, and don’t eat a heavy meal right before sleep.",
+   "Try the bedtime routine of the Sunnah: wuḍūʾ, Āyat al-Kursī, the last two verses of al-Baqarah, the three Quls, then the du’a.",
+   "If insomnia lasts for weeks, talk to a doctor. Persistent sleep problems have treatable causes."
+  ],
+  "related": [
+   "anxiety",
+   "burnout",
+   "attention"
+  ],
+  "start": {
+   "v": 0,
+   "h": 3,
+   "d": "sleep",
+   "plain": "Rest is mercy. Put the phone away, say the bedtime words and let go of the day."
+  }
+ },
+ {
+  "slug": "eyes",
+  "group": "body",
+  "hue": 165,
+  "glyph": "◉",
+  "title": "Eye Strain & Headaches",
+  "tagline": "Long hours on phones, laptops and monitors",
+  "intro": "Your eyes are a trust (amānah) from Allah. Treating them well, resting them, is a form of gratitude.",
+  "verses": [
+   {
+    "ref": "90:8-9",
+    "ayahs": [
+     "90:8",
+     "90:9"
+    ],
+    "en": "Have We not made for him two eyes? And a tongue and two lips?",
+    "why": "Allah lists eyes first among the gifts.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "16:78",
+    "ayahs": [
+     "16:78"
+    ],
+    "en": "And Allah has extracted you from the wombs of your mothers not knowing anything, and He made for you hearing and vision and intellect that perhaps you would be grateful.",
+    "why": "Hearing, vision and intellect are linked with gratitude.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "17:36",
+    "ayahs": [
+     "17:36"
+    ],
+    "en": "And do not pursue that of which you have no knowledge. Indeed, the hearing, the sight and the heart – about all those [one] will be questioned.",
+    "why": "The eyes are also responsibilities: what we use them for matters.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^The Prophet ﷺ said to ʿAbdullāh ibn ʿAmr: “…Your body has a right over you, your eyes have a right over you, and your family has a right over you.”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "“Your eyes have a right over you.” Rest, in this hadith, is a right.",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Allah has not sent down a disease except that He has also sent down its cure.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5678
+     ]
+    ],
+    "why": "If you get frequent headaches or blurred vision, see an optician or doctor.",
+    "grade": null
+   },
+   {
+    "en": "No fatigue, illness, worry, grief, harm or distress afflicts a Muslim – even the prick of a thorn – except that Allah expiates some of his sins through it.",
+    "by": "Abū Saʿīd al-Khudrī and Abū Hurayrah (may Allah be pleased with them)",
+    "srcs": [
+     [
+      "bukhari",
+      5641
+     ],
+     [
+      "muslim",
+      2573
+     ]
+    ],
+    "why": "Pain you bear patiently is not wasted.",
+    "grade": null
+   }
+  ],
+  "duas": [],
+  "steps": [
+   "Follow the 20-20-20 habit: every 20 minutes, look at something about 20 feet (6 metres) away for 20 seconds.",
+   "Blink fully and often when reading screens. Dry eyes are largely a blinking issue.",
+   "Reduce screen brightness at night and put your screen slightly below eye level.",
+   "Get your eyes tested. Headaches and strain are often fixed by a correct prescription.",
+   "Close your eyes for a minute at the end of each prayer. Make it a micro-rest."
+  ],
+  "note_medical": true,
+  "related": [
+   "posture",
+   "sleep",
+   "attention"
+  ],
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": null,
+   "plain": "Your eyes have a right over you. Rest them, and see a professional if they trouble you."
+  }
+ },
+ {
+  "slug": "posture",
+  "group": "body",
+  "hue": 48,
+  "glyph": "▥",
+  "title": "Neck, Shoulder & Back Pain",
+  "tagline": "Hours at a desk, laptop or phone",
+  "intro": "Your body is an amānah with rights over you. Aches from long sitting are common, and also manageable.",
+  "verses": [
+   {
+    "ref": "82:7-8",
+    "ayahs": [
+     "82:7",
+     "82:8"
+    ],
+    "en": "Who created you, proportioned you, and balanced you? In whatever form He willed has He assembled you.",
+    "why": "Your body was proportioned and balanced by design. Looking after it honours that.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "95:4",
+    "ayahs": [
+     "95:4"
+    ],
+    "en": "We have certainly created man in the best of stature.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "4:28",
+    "ayahs": [
+     "4:28"
+    ],
+    "en": "And Allah wants to lighten for you [your difficulties]; and mankind was created weak.",
+    "why": "Aches and limits are part of being human, not a personal failure.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^The Prophet ﷺ said to ʿAbdullāh ibn ʿAmr: “…Your body has a right over you…”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "Strength includes bodily strength; there is “good in both”, but strength is described as better.",
+    "grade": null
+   },
+   {
+    "en": "Allah has not sent down a disease except that He has also sent down its cure.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5678
+     ]
+    ],
+    "why": "If you have persistent pain, numbness or tingling, see a doctor or physiotherapist.",
+    "grade": null
+   },
+   {
+    "en": "No fatigue, illness, worry, grief, harm or distress afflicts a Muslim – even the prick of a thorn – except that Allah expiates some of his sins through it.",
+    "by": "Abū Saʿīd al-Khudrī and Abū Hurayrah (may Allah be pleased with them)",
+    "srcs": [
+     [
+      "bukhari",
+      5641
+     ],
+     [
+      "muslim",
+      2573
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [],
+  "steps": [
+   "Stand up and stretch every 30–45 minutes. Set a timer, or use the prayer times as natural breaks.",
+   "Raise your laptop or phone to eye level and keep your shoulders relaxed.",
+   "Strengthen your back and core a few times a week. Strong muscles carry your posture for you.",
+   "Prayer itself includes standing, bowing and prostrating. Pray with calm movements and don’t rush them.",
+   "If pain spreads, wakes you at night or causes numbness, get professional advice."
+  ],
+  "note_medical": true,
+  "related": [
+   "eyes",
+   "movement",
+   "sleep"
+  ],
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": null,
+   "plain": "Your body has rights too. Stand, stretch and be gentle with it."
+  }
+ },
+ {
+  "slug": "movement",
+  "group": "body",
+  "hue": 120,
+  "glyph": "↟",
+  "title": "Lack of Physical Activity",
+  "tagline": "Too much sitting, not enough walking",
+  "intro": "The Prophet ﷺ walked, raced, travelled and worked. A strong, healthy body helps you serve Allah, your family and yourself.",
+  "verses": [
+   {
+    "ref": "67:15",
+    "ayahs": [
+     "67:15"
+    ],
+    "en": "It is He who made the earth tame for you – so walk among its slopes and eat of His provision – and to Him is the resurrection.",
+    "why": "Walking the earth is mentioned right next to eating His provision.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:63",
+    "ayahs": [
+     "25:63"
+    ],
+    "en": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "7:31",
+    "ayahs": [
+     "7:31"
+    ],
+    "en": "O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.",
+    "why": "Eating and drinking are encouraged, in balance.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "28:77",
+    "ayahs": [
+     "28:77"
+    ],
+    "en": "But seek, through that which Allah has given you, the home of the Hereafter; and [yet], do not forget your share of the world. And do good as Allah has done good to you. And desire not corruption in the land. Indeed, Allah does not like corrupters.",
+    "why": "Do not forget your share of this world, and that includes your health.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^ʿĀʾishah said that she was with the Prophet ﷺ on a journey, and she raced him on foot and beat him. Later, when she had put on weight, she raced him again and he beat her. He said: “This one is for that one.”",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "abudawud",
+      2578
+     ]
+    ],
+    "why": "The Messenger of Allah ﷺ played and raced with his wife.",
+    "grade": "Ṣaḥīḥ"
+   },
+   {
+    "en": "^The Prophet ﷺ said: “Every morning, charity is due on every joint of each one of you… and two rakʿahs of Ḍuḥā which one prays suffice for all of that.”",
+    "by": "Abū Dharr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      720
+     ]
+    ],
+    "why": "Scholars note the hadith speaks about gratitude for the body’s joints; it’s a reminder that the body is a blessing needing thanks.",
+    "grade": null
+   },
+   {
+    "en": "Whoever purifies himself in his house, then walks to one of the houses of Allah to perform one of Allah’s obligations, one of his steps will erase a sin and the other will raise him a degree.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      666
+     ]
+    ],
+    "why": "A built-in reason to walk to the masjid.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said to ʿAbdullāh ibn ʿAmr: “…Your body has a right over you…”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "story": {
+   "title": "The Prophet ﷺ raced his wife",
+   "body": [
+    "ʿĀʾishah (may Allah be pleased with her) reported that she was with the Prophet ﷺ on a journey. She was young and light, and she raced him on foot and won. Later, when she had gained some weight, he raced her again, and this time he won. He laughed and said: “This one is for that one.”",
+    "Joy, play and physical movement were all part of the Prophet’s ﷺ life (Sunan Abī Dāwūd 2578, graded ṣaḥīḥ)."
+   ],
+   "src": [
+    [
+     "abudawud",
+     2578
+    ]
+   ]
+  },
+  "duas": [],
+  "steps": [
+   "Walk 10 minutes after one meal a day. Easy and consistent beats intense and abandoned.",
+   "Walk to the masjid or errands when it’s safe, rather than always driving.",
+   "Pick one thing that feels like play: football, swimming, cycling, climbing, a sports club with friends.",
+   "Do two or three short bodyweight sessions a week; there’s no need for a gym.",
+   "Check with a doctor before starting anything intense if you have health conditions."
+  ],
+  "note_medical": true,
+  "related": [
+   "posture",
+   "burnout",
+   "sleep"
+  ],
+  "start": {
+   "v": 0,
+   "h": 1,
+   "d": null,
+   "plain": "Move a little every day. The Prophet ﷺ even raced his wife."
+  }
+ },
+ {
+  "slug": "grief",
+  "group": "mind",
+  "hue": 268,
+  "glyph": "❀",
+  "title": "Grief & Losing Someone",
+  "tagline": "When someone you love is gone and life keeps going",
+  "intro": "Grief has no deadline, and crying is not weakness. The Prophet ﷺ cried at a funeral and lost children of his own. Here is what Allah and His Messenger ﷺ say to the grieving.",
+  "callout": {
+   "title": "You don’t have to carry it alone",
+   "body": "Grief can feel like depression and sometimes becomes it. If months pass and you cannot function, or you have dark thoughts, please talk to a doctor or counsellor as well as to people who loved them. See also the page on depression."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "musiba",
+   "plain": "Tears are allowed. Your loss is real, and Allah gave us words for exactly this moment."
+  },
+  "verses": [
+   {
+    "ref": "2:155-157",
+    "ayahs": [
+     "2:155",
+     "2:156",
+     "2:157"
+    ],
+    "en": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient, who, when disaster strikes them, say, “Indeed we belong to Allah, and indeed to Him we will return.” Those are the ones upon whom are blessings from their Lord and mercy. And it is those who are the [rightly] guided.",
+    "why": "The Qur’an names loss honestly. It does not say you will not feel it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "12:84",
+    "ayahs": [
+     "12:84"
+    ],
+    "en": "And he turned away from them and said, “Oh, my sorrow over Joseph,” and his eyes became white from grief, and he was suppressing [his sorrow].",
+    "why": "A Prophet of Allah grieved so much that it affected his eyes. This is human.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:153",
+    "ayahs": [
+     "2:153"
+    ],
+    "en": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "64:11",
+    "ayahs": [
+     "64:11"
+    ],
+    "en": "No disaster strikes except by permission of Allah. And whoever believes in Allah – He will guide his heart. And Allah is Knowing of all things.",
+    "why": "“He will guide his heart”: help for the heart, not only an explanation.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "39:10",
+    "ayahs": [
+     "39:10"
+    ],
+    "en": "Say, “O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allah is spacious. Indeed, the patient will be given their reward without account.”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^When his son Ibrāhīm died, the Prophet ﷺ wept and said: “The eyes shed tears and the heart grieves, and we say only what pleases our Lord. O Ibrāhīm, we are truly grieved by your departure.”",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1303
+     ],
+     [
+      "muslim",
+      2315
+     ]
+    ],
+    "why": "Even the best of creation cried. Tears are mercy, not a lack of faith.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “No Muslim is afflicted by a calamity and says what Allah has commanded: ‘Indeed we belong to Allah, and to Him we return. O Allah, reward me in my calamity and replace it with something better,’ except that Allah will replace it with something better for him.”",
+    "by": "Umm Salamah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "muslim",
+      918
+     ]
+    ],
+    "why": "Umm Salamah said that after her husband Abū Salamah died, she said it, and Allah later replaced him with the Messenger of Allah ﷺ.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ passed by a woman weeping at a grave and told her to fear Allah and be patient. She did not recognise him and said, “Leave me, you have not been struck by my calamity.” When she learned who he was, she came to him and said she hadn’t known. He said: “Patience is at the first stroke of the calamity.”",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1283
+     ],
+     [
+      "muslim",
+      926
+     ]
+    ],
+    "why": "Patience is being steady in the first shock; it is not a promise that you won’t cry.",
+    "grade": null
+   },
+   {
+    "en": "^A man said to the Prophet ﷺ: “My mother died suddenly and I think that if she could speak she would have given charity. If I give charity on her behalf, will she receive the reward?” He said: “Yes.”",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      1388
+     ],
+     [
+      "muslim",
+      1004
+     ]
+    ],
+    "why": "A way to keep loving the one you lost.",
+    "grade": null
+   },
+   {
+    "en": "When a person dies, his deeds come to an end except for three: ongoing charity, knowledge from which people benefit, or a righteous child who prays for him.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      1631
+     ]
+    ],
+    "why": "Your prayers for them are a gift that still reaches them.",
+    "grade": null
+   },
+   {
+    "en": "No fatigue, illness, worry, grief, harm or distress afflicts a Muslim – even the prick of a thorn – except that Allah expiates some of his sins through it.",
+    "by": "Abū Saʿīd al-Khudrī and Abū Hurayrah (may Allah be pleased with them)",
+    "srcs": [
+     [
+      "bukhari",
+      5641
+     ],
+     [
+      "muslim",
+      2573
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "musiba",
+   "karb"
+  ],
+  "steps": [
+   "Let yourself cry. Hold back nothing that is simply sorrow.",
+   "Say their name. Tell a story about them to someone who knew them.",
+   "Give charity or pray for them (see the hadith above) as a way of continuing to love them.",
+   "Keep tiny routines: water, food, a walk, sleep. Grief takes a lot of energy.",
+   "If grief stays as heavy and constant after many weeks, ask a doctor or counsellor for help."
+  ],
+  "related": [
+   "depression",
+   "loneliness",
+   "heartbreak"
+  ]
+ },
+ {
+  "slug": "anger",
+  "group": "mind",
+  "hue": 2,
+  "glyph": "✹",
+  "title": "Anger & Losing Your Temper",
+  "tagline": "When it boils over faster than you can think",
+  "intro": "Anger is a human feeling, not a sin in itself. What you do with it is what counts, and the Prophet ﷺ gave very practical advice.",
+  "start": {
+   "v": 0,
+   "h": 2,
+   "d": "audhu",
+   "plain": "Pause before you speak. Sit down, take a breath, and ask Allah for protection from the whisper that makes it worse."
+  },
+  "verses": [
+   {
+    "ref": "3:133-134",
+    "ayahs": [
+     "3:133",
+     "3:134"
+    ],
+    "en": "And hasten to forgiveness from your Lord and a garden as wide as the heavens and the earth, prepared for the righteous, who spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people – and Allah loves the doers of good.",
+    "why": "Restraining anger is listed as a quality of those Allah loves.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "41:34-35",
+    "ayahs": [
+     "41:34",
+     "41:35"
+    ],
+    "en": "And not equal are the good deed and the bad deed. Repel [evil] by that which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend. But none is granted it except those who are patient, and none is granted it except one having a great portion [of good].",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "7:199-200",
+    "ayahs": [
+     "7:199",
+     "7:200"
+    ],
+    "en": "Take what is given freely, enjoin what is good, and turn away from the ignorant. And if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is Hearing and Knowing.",
+    "why": "The remedy in the verse is to turn away and seek refuge in Allah.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:63",
+    "ayahs": [
+     "25:63"
+    ],
+    "en": "And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "42:37",
+    "ayahs": [],
+    "en": "…and when they are angry, they forgive.",
+    "why": "Part of verse 42:37, describing the believers.",
+    "arabic": false,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "The strong person is not the one who overpowers others in wrestling; the strong person is the one who controls himself in anger.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6114
+     ],
+     [
+      "muslim",
+      2609
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^A man said to the Prophet ﷺ, “Advise me.” He said: “Do not become angry.” The man repeated it several times, and each time he said: “Do not become angry.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6116
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^Two men were insulting each other in front of the Prophet ﷺ and the face of one of them turned red with anger. The Prophet ﷺ said: “I know a phrase that, if he said it, what he feels would go away: ‘I seek refuge in Allah from Satan, the accursed.’”",
+    "by": "Sulaymān ibn Ṣurad (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      3282
+     ],
+     [
+      "muslim",
+      2610
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “If one of you becomes angry while standing, let him sit down. If the anger leaves him, good; if not, let him lie down.”",
+    "by": "Abū Dharr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "abudawud",
+      4782
+     ]
+    ],
+    "why": "Change your body’s position, and the heat often drops.",
+    "grade": "Ṣaḥīḥ (al-Albānī)"
+   },
+   {
+    "en": "A Muslim is the one from whose tongue and hand the Muslims are safe.",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      10
+     ],
+     [
+      "muslim",
+      40
+     ]
+    ],
+    "why": "A test for texts, calls and comments, too.",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "audhu"
+  ],
+  "steps": [
+   "Pause for ten slow breaths before replying, in person or online.",
+   "Change position: sit, then lie down if needed, as the Prophet ﷺ advised. Or walk away for a few minutes.",
+   "Draft the angry message, then do not send it. Sleep on it.",
+   "Notice the pattern: hunger, tiredness, stress and screens make anger quicker. Fix one of them.",
+   "If your anger is frightening you or others, or leads you to hurt anyone, please speak to a counsellor."
+  ],
+  "related": [
+   "overwhelm",
+   "family",
+   "burnout"
+  ]
+ },
+ {
+  "slug": "heartbreak",
+  "group": "people",
+  "hue": 340,
+  "glyph": "♡",
+  "title": "Heartbreak, Rejection & Betrayal",
+  "tagline": "When someone you trusted leaves, lets you down or never chose you",
+  "intro": "Being rejected or betrayed hurts like a physical wound. The Qur’an tells the story of Yūsuf ﷺ, betrayed by his own brothers, and of Yaʿqūb ﷺ, who kept hoping for years.",
+  "callout": {
+   "title": "If it brings dark thoughts",
+   "body": "If heartbreak is pulling you into a very dark place, please read the page on depression and reach out to someone today. Pain this big deserves support."
+  },
+  "start": {
+   "v": 2,
+   "h": 0,
+   "d": "qadar",
+   "plain": "It hurts because you cared. Allah sees it, and He is the One who can mend what people broke."
+  },
+  "verses": [
+   {
+    "ref": "12:87",
+    "ayahs": [
+     "12:87"
+    ],
+    "en": "O my sons, go and find out about Joseph and his brother and do not despair of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.",
+    "why": "Said by Yaʿqūb ﷺ after years of grief. Hope is not denial; it is trust.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:216",
+    "ayahs": [],
+    "en": "…But perhaps you dislike a thing and it is good for you; and perhaps you love a thing and it is bad for you. And Allah knows, while you know not.",
+    "why": "Part of verse 2:216.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "65:3",
+    "ayahs": [
+     "65:3"
+    ],
+    "en": "And will provide for him from where he does not expect. And whoever relies upon Allah – then He is sufficient for him. Indeed, Allah will accomplish His purpose. Allah has already set for everything a [decreed] extent.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "94:5-6",
+    "ayahs": [
+     "94:5",
+     "94:6"
+    ],
+    "en": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:139",
+    "ayahs": [
+     "3:139"
+    ],
+    "en": "So do not weaken and do not grieve, and you will be superior if you are [true] believers.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "12:86",
+    "ayahs": [
+     "12:86"
+    ],
+    "en": "He said, “I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.”",
+    "why": "Take your pain to Allah. He listens.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "How wonderful is the affair of the believer! All of his affairs are good for him… If something good happens to him, he is grateful, and that is good for him. If something harmful happens to him, he is patient, and that is good for him.",
+    "by": "Ṣuhayb ibn Sinān (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2999
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up. If something befalls you, do not say, ‘If only I had done such-and-such,’ but say, ‘Allah has decreed, and what He willed He did,’ for ‘if only’ opens the door to Satan’s work.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "A way out of the loop of “what if I had…”.",
+    "grade": null
+   },
+   {
+    "en": "No fatigue, illness, worry, grief, harm or distress afflicts a Muslim – even the prick of a thorn – except that Allah expiates some of his sins through it.",
+    "by": "Abū Saʿīd al-Khudrī and Abū Hurayrah (may Allah be pleased with them)",
+    "srcs": [
+     [
+      "bukhari",
+      5641
+     ],
+     [
+      "muslim",
+      2573
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ taught us istikhārah in all matters just as he taught us a sūrah of the Qur’an. He said: “If one of you is concerned about a matter, let him pray two voluntary rakʿahs, then say: O Allah, I seek Your guidance through Your knowledge… [and he asks that the matter be decreed if it is good for his religion, his livelihood and the outcome of his affairs, and turned away if it is bad].”",
+    "by": "Jābir ibn ʿAbdillāh (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1162
+     ]
+    ],
+    "why": "For when you don’t know whether to hold on or let go. Full du’a on the Du’as page.",
+    "grade": null
+   },
+   {
+    "en": "^Ibn ʿAbbās said that “Allah is sufficient for us, and He is the best disposer of affairs” was said by Ibrāhīm when he was thrown into the fire, and by Muḥammad ﷺ when people said, “The people have gathered against you, so fear them,” and it increased them in faith.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      4563
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "qadar",
+   "istikhara",
+   "ibn_masud"
+  ],
+  "steps": [
+   "Mute or step back from their accounts for a while. Healing needs distance.",
+   "Tell one trusted friend or family member how you really feel.",
+   "Write the lesson, not the grudge: what do you want to carry into the next chapter?",
+   "Keep your prayers. Cry in sujūd if you need to.",
+   "Fill the empty time with something good for you: friends, movement, learning."
+  ],
+  "related": [
+   "depression",
+   "loneliness",
+   "behind"
+  ]
+ },
+ {
+  "slug": "family",
+  "group": "people",
+  "hue": 28,
+  "glyph": "⌂",
+  "title": "Family Pressure & Conflict at Home",
+  "tagline": "Expectations, arguments and feeling unheard by the people closest to you",
+  "intro": "Islam puts great weight on kindness to parents and family ties, and also acknowledges that family life isn’t always easy. This page holds both.",
+  "callout": {
+   "title": "If you are being hurt at home",
+   "body": "Being kind to parents does not mean staying silent while being abused or in danger. If you are being hurt, physically or emotionally, please tell a trusted adult, a teacher or a local helpline, and keep yourself safe."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "walidayn",
+   "plain": "Be gentle and honest. You can respect your parents and still need to be heard."
+  },
+  "verses": [
+   {
+    "ref": "17:23-24",
+    "ayahs": [
+     "17:23",
+     "17:24"
+    ],
+    "en": "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], “uff,” and do not repel them but speak to them a noble word. And lower to them the wing of humility out of mercy and say, “My Lord, have mercy upon them as they brought me up [when I was] small.”",
+    "why": "A noble word, even when it is hard.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "31:14-15",
+    "ayahs": [
+     "31:14",
+     "31:15"
+    ],
+    "en": "And We have enjoined upon man [care] for his parents. His mother carried him, [increasing her] in weakness upon weakness, and his weaning is in two years. Be grateful to Me and to your parents; to Me is the [final] destination. But if they endeavour to make you associate with Me that of which you have no knowledge, do not obey them but accompany them in [this] world with appropriate kindness and follow the way of those who turn back to Me [in repentance]. Then to Me will be your return, and I will inform you about what you used to do.",
+    "why": "Even when you cannot obey, you are still told to be kind.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "42:40",
+    "ayahs": [
+     "42:40"
+    ],
+    "en": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation – his reward is [due] from Allah. Indeed, He does not like wrongdoers.",
+    "why": "Forgiveness is rewarded by Allah, even if the other side never apologises.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "41:34-35",
+    "ayahs": [
+     "41:34",
+     "41:35"
+    ],
+    "en": "And not equal are the good deed and the bad deed. Repel [evil] by that which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend. But none is granted it except those who are patient, and none is granted it except one having a great portion [of good].",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^A man came to the Messenger of Allah ﷺ and said: “O Messenger of Allah, who is most deserving of my good companionship?” He said: “Your mother.” The man said: “Then who?” He said: “Your mother.” He said: “Then who?” He said: “Your mother.” He said: “Then who?” He said: “Your father.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5971
+     ],
+     [
+      "muslim",
+      2548
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “There is no obedience in disobedience [to Allah]. Obedience is only in what is right.”",
+    "by": "ʿAlī ibn Abī Ṭālib (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      7257
+     ],
+     [
+      "muslim",
+      1840
+     ]
+    ],
+    "why": "Good manners never require you to do what is wrong.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “The one who maintains family ties is not the one who merely reciprocates, but the one who keeps ties when they are cut off.”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5991
+     ]
+    ],
+    "why": "Sometimes you go first.",
+    "grade": null
+   },
+   {
+    "en": "^Whoever believes in Allah and the Last Day, let him speak good or remain silent.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6018
+     ],
+     [
+      "muslim",
+      47
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The strong person is not the one who overpowers others in wrestling; the strong person is the one who controls himself in anger.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6114
+     ],
+     [
+      "muslim",
+      2609
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "walidayn",
+   "musa"
+  ],
+  "steps": [
+   "Pick a calm moment (not in the middle of an argument) and start with: “I want us to understand each other.”",
+   "Listen first. Repeat back what you heard before you explain yourself.",
+   "State one clear, respectful boundary rather than a long list of complaints.",
+   "If it is stuck, bring in a trusted relative, teacher or imam to help.",
+   "Make du’a for them, even while you are upset. It softens your heart too."
+  ],
+  "related": [
+   "anger",
+   "pressure",
+   "loneliness"
+  ]
+ },
+ {
+  "slug": "peer",
+  "group": "people",
+  "hue": 312,
+  "glyph": "⚭",
+  "title": "Peer Pressure & Toxic Friendships",
+  "tagline": "Fitting in, being left out and friends who pull you down",
+  "intro": "Who you spend time with shapes who you become. The Qur’an and the Prophet ﷺ speak strongly about friendship, in both directions.",
+  "start": {
+   "v": 1,
+   "h": 0,
+   "d": null,
+   "plain": "A good friend is worth far more than a large group. It is okay to step back from people who drag you down."
+  },
+  "verses": [
+   {
+    "ref": "25:27-29",
+    "ayahs": [
+     "25:27",
+     "25:28",
+     "25:29"
+    ],
+    "en": "And [mention] the Day the wrongdoer will bite on his hands [in regret]; he will say, “I wish I had taken with the Messenger a way. Woe to me! I wish I had not taken that one as an intimate friend. He had already led me away from the remembrance after it had come to me.” And ever is Satan, to man, a deserter.",
+    "why": "A warning about the friend who leads you away from what is good.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "18:28",
+    "ayahs": [
+     "18:28"
+    ],
+    "en": "And keep yourself [O Muhammad] patient [by being] with those who call upon their Lord in the morning and the evening, desiring His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.",
+    "why": "Seek company that reminds you of Allah, even if it is a small group.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "5:105",
+    "ayahs": [
+     "5:105"
+    ],
+    "en": "O you who have believed, upon you is [responsibility for] yourselves. Those who have gone astray will not harm you when you have been guided. To Allah is your return all together, and He will inform you about what you used to do.",
+    "why": "You are accountable for yourself, not for staying accepted by everyone.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "9:119",
+    "ayahs": [
+     "9:119"
+    ],
+    "en": "O you who have believed, fear Allah and be with those who are true.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "49:11",
+    "ayahs": [
+     "49:11"
+    ],
+    "en": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. How wretched is the name of disobedience after [one’s] faith. And whoever does not repent – then it is those who are the wrongdoers.",
+    "why": "Don’t be the one who mocks, either.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "A man is upon the religion of his close friend, so let each of you look at whom he befriends.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "abudawud",
+      4833
+     ],
+     [
+      "tirmidhi",
+      2378
+     ]
+    ],
+    "why": "Choose your circle on purpose.",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "The example of a good companion and a bad companion is like a seller of musk and a blacksmith’s bellows. The musk seller will either give you some, or you will buy from him, or at least you will find a pleasant fragrance. The blacksmith will either burn your clothes or you will find an unpleasant smell.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5534
+     ],
+     [
+      "muslim",
+      2628
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^Among the seven whom Allah will shade on the Day when there is no shade but His: “two men who love each other for the sake of Allah, meeting and parting upon that.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      660
+     ],
+     [
+      "muslim",
+      1031
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "A believer to a believer is like a building: each part strengthens the other.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      481
+     ],
+     [
+      "muslim",
+      2585
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Whoever believes in Allah and the Last Day, let him speak good or remain silent.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6018
+     ],
+     [
+      "muslim",
+      47
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "aal"
+  ],
+  "steps": [
+   "Practise one calm “no”: “Not for me, but have fun.” You don’t need a long explanation.",
+   "Notice how you feel after being with each friend: lighter, or smaller?",
+   "Find or build one small circle around something good: sport, study, a halaqah, volunteering.",
+   "Step back gently from people who push you towards harm, without drama or insults."
+  ],
+  "related": [
+   "loneliness",
+   "comparison",
+   "habit"
+  ]
+ },
+ {
+  "slug": "guilt",
+  "group": "faith",
+  "hue": 82,
+  "glyph": "✧",
+  "title": "Guilt, Shame & Feeling Unforgivable",
+  "tagline": "“I did something wrong” versus “I am something wrong”",
+  "intro": "Guilt says you made a mistake. Shame says you are the mistake. The door of tawbah is open for the first, and Allah answers the second by reminding you of the dignity He gave you.",
+  "callout": {
+   "title": "Guilt that helps, and shame that harms",
+   "body": "Guilt that moves you back to Allah and towards change is healthy. Shame tells you to hide and to believe you are worthless. The Qur’an says the opposite: Allah honoured the children of Adam (17:70) and tells those who have wronged themselves not to despair (39:53). Repentance is between you and Allah, and if you have wronged a person, make it right with them where you can."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "sayyid",
+   "plain": "Come back to Allah, as many times as you need. He is not tired of you."
+  },
+  "verses": [
+   {
+    "ref": "39:53",
+    "ayahs": [
+     "39:53"
+    ],
+    "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "4:110",
+    "ayahs": [
+     "4:110"
+    ],
+    "en": "And whoever does a wrong or wrongs himself but then seeks forgiveness of Allah will find Allah Forgiving and Merciful.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:135",
+    "ayahs": [
+     "3:135"
+    ],
+    "en": "And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins – and who can forgive sins except Allah? – and do not persist in what they have done while they know.",
+    "why": "The key: remember Allah, ask forgiveness, and do not keep going back on purpose.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "25:70",
+    "ayahs": [
+     "25:70"
+    ],
+    "en": "Except for those who repent and believe and do righteous work, for it is those whose evil deeds Allah will replace with good. And ever is Allah Forgiving and Merciful.",
+    "why": "Not only erased, but replaced with good.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "7:23",
+    "ayahs": [
+     "7:23"
+    ],
+    "en": "They said, “Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.”",
+    "why": "The words of Ādam and Ḥawwāʾ (Adam and Eve) ﷺ. They owned the mistake, and did not hide in shame.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "20:122",
+    "ayahs": [
+     "20:122"
+    ],
+    "en": "Then his Lord chose him, and turned to him in forgiveness and guided [him].",
+    "why": "After Ādam ﷺ erred and repented, Allah chose him and guided him. A mistake did not end his story.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "17:70",
+    "ayahs": [
+     "17:70"
+    ],
+    "en": "And We have certainly honoured the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
+    "why": "Your dignity was given by Allah, and your mistakes do not cancel it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "11:114",
+    "ayahs": [
+     "11:114"
+    ],
+    "en": "And establish prayer at the two ends of the day and at the approach of the night. Indeed, good deeds do away with misdeeds. That is a reminder for those who remember.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Every son of Adam makes mistakes, and the best of those who make mistakes are those who repent.",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2499
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "^The Prophet ﷺ said: “Allah is more pleased with the repentance of His servant than a man who lost his camel, carrying his food and drink, in a barren desert, and then finds it.”",
+    "by": "ʿAbdullāh ibn Masʿūd (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6308
+     ],
+     [
+      "muslim",
+      2744
+     ]
+    ],
+    "why": "Allah is joyful when you return.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “Allah will bring the believer close and place His screen over him and conceal him, and say: ‘Do you recognise this sin? Do you recognise this sin?’ He will say: ‘Yes, my Lord,’ until, when He has made him admit his sins and he sees that he is destroyed, He will say: ‘I concealed them for you in the world, and I forgive them for you today.’”",
+    "by": "ʿAbdullāh ibn ʿUmar (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      2441
+     ],
+     [
+      "muslim",
+      2768
+     ]
+    ],
+    "why": "Allah conceals. Shame wants everything exposed; His response is to cover and forgive.",
+    "grade": null
+   },
+   {
+    "en": "Allah stretches out His hand at night to accept the repentance of the one who did wrong during the day, and stretches out His hand during the day to accept the repentance of the one who did wrong during the night, until the sun rises from the west.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2759
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Fear Allah wherever you are, follow a bad deed with a good one and it will wipe it out, and treat people with good character.",
+    "by": "Abū Dharr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      1987
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "By the One in whose hand is my soul, if you did not sin, Allah would remove you and bring a people who would sin, then seek forgiveness from Allah, and He would forgive them.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2749
+     ]
+    ],
+    "why": "This is not a licence to sin; it shows how much Allah loves forgiving those who return.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said about sayyid al-istighfār: “Whoever says it during the day with firm belief in it and dies that day before evening is of the people of Paradise, and whoever says it at night with firm belief in it and dies before morning is of the people of Paradise.”",
+    "by": "Shaddād ibn Aws (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6306
+     ]
+    ],
+    "why": "Full text on the Du’as page.",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "sayyid",
+   "yunus"
+  ],
+  "steps": [
+   "Say astaghfirullāh now. Don’t wait until you “feel ready”.",
+   "Add a small good deed straight after: pray two rakʿahs, give a little charity, call someone.",
+   "If you wronged a person, make it right: apologise, return what is theirs.",
+   "Tell yourself the truth: “I made a mistake. I am not a mistake.”",
+   "Where it’s a health matter (compulsive guilt, scrupulosity), speak to a counsellor."
+  ],
+  "related": [
+   "habit",
+   "distant",
+   "depression"
+  ]
+ },
+ {
+  "slug": "distant",
+  "group": "faith",
+  "hue": 205,
+  "glyph": "☄",
+  "title": "Feeling Distant from Allah",
+  "tagline": "When prayer feels empty and your faith feels low",
+  "intro": "Imān goes up and down. Even the Companions worried about it, and the Prophet ﷺ answered them with kindness. Feeling distant is a call to come back, not proof that you are lost.",
+  "callout": {
+   "title": "Doubts and whispers",
+   "body": "Troubling thoughts do not mean your faith is gone. When some of the Companions told the Prophet ﷺ about thoughts so serious they couldn’t speak of them, he said it was a sign of clear faith (Ṣaḥīḥ Muslim 132). Ask your questions of someone knowledgeable and kind; there is no shame in asking."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "qulub",
+   "plain": "Come closer one small step at a time. Allah says He is near."
+  },
+  "verses": [
+   {
+    "ref": "2:186",
+    "ayahs": [
+     "2:186"
+    ],
+    "en": "And when My servants ask you, [O Muhammad], concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "50:16",
+    "ayahs": [
+     "50:16"
+    ],
+    "en": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:8",
+    "ayahs": [
+     "3:8"
+    ],
+    "en": "“Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.”",
+    "why": "A du’a that even the firmly rooted in knowledge make.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "57:16",
+    "ayahs": [],
+    "en": "Has the time not come for those who have believed that their hearts should become humbly submissive at the remembrance of Allah and what has come down of the truth?…",
+    "why": "The verse invites; it does not scold. Part of verse 57:16.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "13:28",
+    "ayahs": [
+     "13:28"
+    ],
+    "en": "Those who have believed, and whose hearts find peace in the remembrance of Allah. Truly, in the remembrance of Allah do hearts find peace.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "39:53",
+    "ayahs": [
+     "39:53"
+    ],
+    "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^Ḥanẓalah said: “We were with the Messenger of Allah ﷺ and he reminded us of Paradise and Hell until it was as if we could see them. Then I went home and played with my wife and children and forgot much. So I said: ‘Ḥanẓalah has become a hypocrite!’” He and Abū Bakr went to the Prophet ﷺ, who said: “By the One in whose hand is my soul, if you remained as you are with me and in remembrance, the angels would shake hands with you on your beds and on your paths. But, O Ḥanẓalah, there is a time for this and a time for that,” and he repeated it three times.",
+    "by": "Ḥanẓalah al-Usayyidī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2750
+     ]
+    ],
+    "why": "Imān fluctuates, and the Prophet ﷺ himself said there is a time for each.",
+    "grade": null
+   },
+   {
+    "en": "^Some of the Companions came to the Prophet ﷺ and said: “We find in ourselves thoughts so grave that none of us would dare speak about them.” He said: “Do you really find that?” They said: “Yes.” He said: “That is clear faith.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      132
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "The most beloved deeds to Allah are the most consistent, even if they are small.",
+    "by": "ʿĀʾishah (may Allah be pleased with her)",
+    "srcs": [
+     [
+      "bukhari",
+      6464
+     ],
+     [
+      "muslim",
+      783
+     ]
+    ],
+    "why": "Two rakʿahs you keep are better than twenty you abandon.",
+    "grade": null
+   },
+   {
+    "en": "^Allah says: “I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; and if he remembers Me in a gathering, I remember him in a better gathering.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      7405
+     ],
+     [
+      "muslim",
+      2675
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “The hearts of the children of Adam are all between two fingers of the Most Merciful, like one heart; He turns them wherever He wills.” Then the Messenger of Allah ﷺ said: “O Allah, Turner of hearts, turn our hearts to obedience to You.”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2654
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ asked: “What do you think if there were a river at the door of one of you in which he bathed five times every day; would any dirt remain on him?” They said, “No dirt would remain.” He said: “That is like the five prayers; by them Allah erases sins.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      528
+     ],
+     [
+      "muslim",
+      667
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "qulub",
+   "aal"
+  ],
+  "steps": [
+   "Keep the five prayers even if they feel dry. Showing up is the work.",
+   "Read a few verses a day, slowly, with a translation. A little, daily.",
+   "Spend time with people who make Allah feel close.",
+   "Ask your honest questions to a knowledgeable, patient person.",
+   "Go outside and look at the sky or trees for a few minutes with a quiet heart."
+  ],
+  "related": [
+   "guilt",
+   "loneliness",
+   "habit"
+  ]
+ },
+ {
+  "slug": "habit",
+  "group": "faith",
+  "hue": 100,
+  "glyph": "⛓",
+  "title": "A Habit You Can’t Seem to Break",
+  "tagline": "Screens, vaping, porn, gaming, gambling… and the shame that follows",
+  "intro": "Many people struggle with something they keep returning to and hate themselves for. The Qur’an and Sunnah do not shame you for struggling; they give a way back, again and again.",
+  "callout": {
+   "title": "This is also a health issue",
+   "body": "Some habits become addictions, which are real medical and psychological conditions. Needing a doctor, counsellor or support group is not a lack of faith. Help is part of the way out, and it is fine to tell a trusted adult."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "sayyid",
+   "plain": "You are not beyond help. Fall, stand up, ask Allah, and change what makes you fall."
+  },
+  "verses": [
+   {
+    "ref": "39:53",
+    "ayahs": [
+     "39:53"
+    ],
+    "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.”",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:135",
+    "ayahs": [
+     "3:135"
+    ],
+    "en": "And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins – and who can forgive sins except Allah? – and do not persist in what they have done while they know.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "7:200-201",
+    "ayahs": [
+     "7:200",
+     "7:201"
+    ],
+    "en": "And if there comes to you from Satan an evil suggestion, then seek refuge in Allah. Indeed, He is Hearing and Knowing. Indeed, those who fear Allah – when an impulse touches them from Satan, they remember [Him] and at once they are those who see.",
+    "why": "At the moment the urge comes, remember Allah, and your sight clears.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "4:28",
+    "ayahs": [
+     "4:28"
+    ],
+    "en": "And Allah wants to lighten for you [your difficulties]; and mankind was created weak.",
+    "why": "Allah knows how weak you are.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "24:31",
+    "ayahs": [],
+    "en": "…And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+    "why": "Part of verse 24:31.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "29:69",
+    "ayahs": [
+     "29:69"
+    ],
+    "en": "And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Every son of Adam makes mistakes, and the best of those who make mistakes are those who repent.",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2499
+     ]
+    ],
+    "why": "",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "Fear Allah wherever you are, follow a bad deed with a good one and it will wipe it out, and treat people with good character.",
+    "by": "Abū Dharr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      1987
+     ]
+    ],
+    "why": "A way to respond to a slip: act, don’t sink.",
+    "grade": "Ḥasan"
+   },
+   {
+    "en": "Whoever seeks to be chaste, Allah will make him chaste; whoever seeks to be independent, Allah will make him independent; whoever tries to be patient, Allah will make him patient. No one is given a gift better and more vast than patience.",
+    "by": "Abū Saʿīd al-Khudrī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1469
+     ],
+     [
+      "muslim",
+      1053
+     ]
+    ],
+    "why": "Allah helps the one who tries.",
+    "grade": null
+   },
+   {
+    "en": "O young men! Whoever among you is able to marry, let him marry, for it lowers the gaze and protects chastity; and whoever is not able, let him fast, for it is a shield for him.",
+    "by": "ʿAbdullāh ibn Masʿūd (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5066
+     ],
+     [
+      "muslim",
+      1400
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "By the One in whose hand is my soul, if you did not sin, Allah would remove you and bring a people who would sin, then seek forgiveness from Allah, and He would forgive them.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2749
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "There are two blessings that many people lose out on: health and free time.",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6412
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "sayyid",
+   "audhu",
+   "qulub"
+  ],
+  "steps": [
+   "Remove the trigger: phone outside the bedroom, block the site or app, delete the contact.",
+   "Plan the danger hours (late night, boredom, loneliness) and have something else ready to do then.",
+   "Ride the urge: they peak and fall. Move your body, drink water, leave the room.",
+   "After a slip, don’t spiral. Repent, do a good deed and carry on, as the hadith above teaches.",
+   "Tell someone safe, or see a counsellor or doctor. Habits that you can’t control alone often need support."
+  ],
+  "related": [
+   "guilt",
+   "attention",
+   "distant"
+  ]
+ },
+ {
+  "slug": "bodyimage",
+  "group": "body",
+  "hue": 152,
+  "glyph": "❋",
+  "title": "Body Image & Appearance Worries",
+  "tagline": "Filters, comparisons and never feeling good enough in the mirror",
+  "intro": "You live in a world of edited faces. The Qur’an says you were created in the best form, and the Prophet ﷺ taught that Allah looks at something else entirely.",
+  "callout": {
+   "title": "If this has become heavy or controlling",
+   "body": "If thoughts about your body or food feel obsessive, or you are skipping meals, purging or exercising to punish yourself, please talk to a doctor or counsellor. This is a health condition and it deserves proper care, with no shame."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": null,
+   "plain": "You were made with care. The filters aren’t what Allah looks at."
+  },
+  "verses": [
+   {
+    "ref": "95:4",
+    "ayahs": [
+     "95:4"
+    ],
+    "en": "We have certainly created man in the best of stature.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "82:7-8",
+    "ayahs": [
+     "82:7",
+     "82:8"
+    ],
+    "en": "Who created you, proportioned you, and balanced you? In whatever form He willed has He assembled you.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "17:70",
+    "ayahs": [
+     "17:70"
+    ],
+    "en": "And We have certainly honoured the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "49:11",
+    "ayahs": [
+     "49:11"
+    ],
+    "en": "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women; perhaps they may be better than them. And do not insult one another and do not call each other by [offensive] nicknames. How wretched is the name of disobedience after [one’s] faith. And whoever does not repent – then it is those who are the wrongdoers.",
+    "why": "Mocking looks or nicknames is addressed, and that includes how you speak about yourself.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "49:13",
+    "ayahs": [
+     "49:13"
+    ],
+    "en": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Aware.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Allah does not look at your bodies or your appearances, but He looks at your hearts and your deeds.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2564
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “Allah is beautiful and loves beauty. Pride is rejecting the truth and looking down on people.”",
+    "by": "ʿAbdullāh ibn Masʿūd (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      91
+     ]
+    ],
+    "why": "Looking after yourself neatly and cleanly is fine, and so is accepting how you were made.",
+    "grade": null
+   },
+   {
+    "en": "Wealth is not in having many possessions; true wealth is the richness of the soul.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6446
+     ],
+     [
+      "muslim",
+      1051
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Look at those who are below you, and do not look at those who are above you; that is more fitting so that you do not belittle the favours of Allah upon you.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2963
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said to ʿAbdullāh ibn ʿAmr: “…Your body has a right over you…”",
+    "by": "ʿAbdullāh ibn ʿAmr (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1975
+     ],
+     [
+      "muslim",
+      1159
+     ]
+    ],
+    "why": "Your body has rights: food, rest, care.",
+    "grade": null
+   }
+  ],
+  "duas": [],
+  "steps": [
+   "Curate your feed: unfollow accounts that make you feel worse about your body.",
+   "Thank Allah for one thing your body does for you each day, not how it looks.",
+   "Speak to yourself as you would to a younger sibling.",
+   "Eat regular meals and move in ways you enjoy, without punishment.",
+   "If you feel stuck, talk to a doctor or counsellor, not a trend."
+  ],
+  "note_medical": true,
+  "related": [
+   "comparison",
+   "posture",
+   "movement"
+  ]
+ },
+ {
+  "slug": "hopeless",
+  "group": "mind",
+  "hue": 200,
+  "glyph": "✦",
+  "title": "Hopelessness: “What’s the Point?”",
+  "tagline": "When you can’t see a way forward and nothing feels like it will change",
+  "intro": "Hopelessness is one of the heaviest feelings there is, and the Qur’an speaks to it directly. Even prophets said, “When will Allah’s help come?” and the answer was: it is near.",
+  "callout": {
+   "title": "Hopelessness is a symptom, not a verdict",
+   "body": "Feeling that nothing will ever improve is a common sign of depression, and it lies. It can make the future look closed when it isn’t. Please speak to a doctor or counsellor, and to someone you trust. The Prophet ﷺ taught that every disease has a cure (Ṣaḥīḥ al-Bukhārī 5678)."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "karb",
+   "plain": "This feeling is real, and it is not the whole truth. Allah is near, and relief is closer than it looks."
+  },
+  "verses": [
+   {
+    "ref": "12:87",
+    "ayahs": [
+     "12:87"
+    ],
+    "en": "O my sons, go and find out about Joseph and his brother and do not despair of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.",
+    "why": "Said by Yaʿqūb ﷺ after years of grief, when everything looked finished. Joseph’s story was not over.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:214",
+    "ayahs": [
+     "2:214"
+    ],
+    "en": "Or do you think that you will enter Paradise while such [trial] has not yet come to you as came to those who passed on before you? They were touched by poverty and hardship and were shaken until [even their] messenger and those who believed with him said, “When is the help of Allah?” Unquestionably, the help of Allah is near.",
+    "why": "Even a messenger and believers cried out, “When is the help of Allah?” The answer was: it is near.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "15:56",
+    "ayahs": [
+     "15:56"
+    ],
+    "en": "He said, “And who despairs of the mercy of his Lord except for those astray?”",
+    "why": "Ibrāhīm ﷺ said this when told he would have a child in old age.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "93:3-5",
+    "ayahs": [
+     "93:3",
+     "93:4",
+     "93:5"
+    ],
+    "en": "Your Lord has not taken leave of you, nor has He detested [you]. And the Hereafter is better for you than the first [life]. And your Lord is going to give you, and you will be satisfied.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "94:5-6",
+    "ayahs": [
+     "94:5",
+     "94:6"
+    ],
+    "en": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:186",
+    "ayahs": [
+     "2:186"
+    ],
+    "en": "And when My servants ask you, [O Muhammad], concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^Allah says: “I am as My servant thinks of Me, and I am with him when he remembers Me. If he remembers Me within himself, I remember him within Myself; and if he remembers Me in a gathering, I remember him in a better gathering.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      7405
+     ],
+     [
+      "muslim",
+      2675
+     ]
+    ],
+    "why": "Think well of Allah, even if it is the only thing you can do today.",
+    "grade": null
+   },
+   {
+    "en": "Your Lord is Ever-Living and Generous. He is shy to turn away empty the hands of His servant when he raises them to Him.",
+    "by": "Salmān al-Fārisī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "abudawud",
+      1488
+     ],
+     [
+      "tirmidhi",
+      3556
+     ]
+    ],
+    "why": "Raise your hands, even with no words ready.",
+    "grade": "Ḥasan (Tirmidhī); Ṣaḥīḥ (al-Albānī)"
+   },
+   {
+    "en": "The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be eager for what benefits you, seek help from Allah, and do not give up.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2664
+     ]
+    ],
+    "why": "“Do not give up” is part of the instruction, not just advice.",
+    "grade": null
+   },
+   {
+    "en": "Allah has not sent down a disease except that He has also sent down its cure.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5678
+     ]
+    ],
+    "why": "Treatment, therapy and support are part of the cure.",
+    "grade": null
+   },
+   {
+    "en": "None of you should wish for death because of a harm that has befallen him. If he must, let him say: ‘O Allah, keep me alive as long as life is good for me, and take me when death is better for me.’",
+    "by": "Anas ibn Mālik (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5671
+     ],
+     [
+      "muslim",
+      2680
+     ]
+    ],
+    "why": "If this thought is with you, please read the help box below and talk to someone today.",
+    "grade": null
+   },
+   {
+    "en": "How wonderful is the affair of the believer! All of his affairs are good for him… If something harmful happens to him, he is patient, and that is good for him.",
+    "by": "Ṣuhayb ibn Sinān (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2999
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "karb",
+   "ibn_masud",
+   "yunus"
+  ],
+  "steps": [
+   "Do one tiny thing today: a shower, a glass of water, a short walk. Hope often returns after small actions.",
+   "Tell one person the truth in a sentence: “I feel hopeless.” You don’t have to explain it.",
+   "Don’t decide anything big while you feel this way. The feeling distorts how the future looks.",
+   "See a doctor or counsellor. This is treatable, and asking is not a lack of faith.",
+   "Read the accounts of Yaʿqūb and Yūsuf ﷺ (surah 12). A man who lost hope for years was reunited with his son."
+  ],
+  "crisis": true,
+  "related": [
+   "depression",
+   "loneliness",
+   "heartbreak"
+  ]
+ },
+ {
+  "slug": "identity",
+  "group": "faith",
+  "hue": 70,
+  "glyph": "◎",
+  "title": "Identity Crisis: “Who Am I?”",
+  "tagline": "Pulled between family, culture, faith, friends and the internet",
+  "intro": "Many young people feel like different people in different rooms. The Qur’an gives a steady answer to “who am I?”: a created, honoured human being, with a purpose, accountable to the One who made you.",
+  "callout": {
+   "title": "Questions are not a crisis of faith",
+   "body": "Wondering who you are, what you believe and where you belong is a normal part of growing up. Ask your questions of someone knowledgeable, kind and patient. If this feeling comes with deep distress, see the pages on depression and hopelessness."
+  },
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "aal",
+   "plain": "You are not an accident or a role you perform. Allah honoured you and made you for something."
+  },
+  "verses": [
+   {
+    "ref": "17:70",
+    "ayahs": [
+     "17:70"
+    ],
+    "en": "And We have certainly honoured the children of Adam and carried them on the land and sea and provided for them of the good things and preferred them over much of what We have created, with [definite] preference.",
+    "why": "Your starting point is honour, before any achievement or label.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "51:56",
+    "ayahs": [
+     "51:56"
+    ],
+    "en": "And I did not create the jinn and mankind except to worship Me.",
+    "why": "A purpose, as the Qur’an states it. Worship here includes living with awareness of Allah in everything you do, so a life of study, work and kindness can all be part of it.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "2:30",
+    "ayahs": [
+     "2:30"
+    ],
+    "en": "And [mention] when your Lord said to the angels, “Indeed, I will make upon the earth a successive authority.” They said, “Will You place upon it one who causes corruption therein and sheds blood, while we exalt You with praise and sanctify You?” He said, “Indeed, I know that which you do not know.”",
+    "why": "Humans were given a role of stewardship on the earth, by Allah’s knowledge and choice.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "91:7-10",
+    "ayahs": [
+     "91:7",
+     "91:8",
+     "91:9",
+     "91:10"
+    ],
+    "en": "And [by] the soul and He who proportioned it, and inspired it [with discernment of] its wickedness and its righteousness, he has succeeded who purifies it, and he has failed who instills it [with corruption].",
+    "why": "You were given a conscience. Becoming the person you’re meant to be is a matter of caring for your soul.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "6:162",
+    "ayahs": [
+     "6:162"
+    ],
+    "en": "Say, “Indeed, my prayer, my rites of sacrifice, my living and my dying are for Allah, Lord of the worlds.”",
+    "why": "A one-line answer to “what is my life for?”",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "41:33",
+    "ayahs": [
+     "41:33"
+    ],
+    "en": "And who is better in speech than one who invites to Allah and does righteousness and says, “Indeed, I am of the Muslims.”",
+    "why": "You are allowed to say who you are, with confidence.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "49:13",
+    "ayahs": [
+     "49:13"
+    ],
+    "en": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Aware.",
+    "why": "Your tribe, language and background are part of Allah’s design, not obstacles to belonging.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "Allah does not look at your bodies or your appearances, but He looks at your hearts and your deeds.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2564
+     ]
+    ],
+    "why": "Identity in Allah’s eyes is what is in your heart and what you do.",
+    "grade": null
+   },
+   {
+    "en": "Be in this world as though you were a stranger or a wayfarer.",
+    "by": "ʿAbdullāh ibn ʿUmar (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6416
+     ]
+    ],
+    "why": "A reminder that no place, trend or crowd is your final home.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “Every child is born upon the fiṭrah…”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      1385
+     ],
+     [
+      "muslim",
+      2658
+     ]
+    ],
+    "why": "Beneath all the layers, the natural inclination is towards the truth. Part of the hadith.",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said to the young Ibn ʿAbbās: “Young man, I will teach you some words: Be mindful of Allah and He will protect you; be mindful of Allah and you will find Him before you. If you ask, ask Allah; and if you seek help, seek help from Allah…”",
+    "by": "ʿAbdullāh ibn ʿAbbās (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "tirmidhi",
+      2516
+     ]
+    ],
+    "why": "Advice given to a teenager about who to turn to.",
+    "grade": "Ḥasan Ṣaḥīḥ"
+   }
+  ],
+  "duas": [
+   "aal",
+   "qulub",
+   "musa"
+  ],
+  "steps": [
+   "Write your three most important values (for example honesty, kindness, learning). Check one decision this week against them.",
+   "List the roles you hold (child, student, friend, believer). Notice which ones you’re neglecting and which you’re hiding.",
+   "Find one person you respect who is both thoughtful and kind, and ask them how they found their way.",
+   "Be the same person in every room, even if you’re quieter in some.",
+   "Pray, even briefly. It reminds you daily who you’re answerable to and who you belong to."
+  ],
+  "related": [
+   "purpose",
+   "distant",
+   "comparison"
+  ]
+ },
+ {
+  "slug": "purpose",
+  "group": "people",
+  "hue": 275,
+  "glyph": "⚑",
+  "title": "Lack of Purpose & Shared Values",
+  "tagline": "When life feels aimless and nobody around you seems to care about the same things",
+  "intro": "Humans feel purpose most strongly when they are part of something shared. The Qur’an describes a community of people who help one another do good, and the Prophet ﷺ gave concrete ways to find a mission worth living for.",
+  "start": {
+   "v": 0,
+   "h": 0,
+   "d": "aal",
+   "plain": "Purpose is built with others: a mission worth giving your days to, and people who share it."
+  },
+  "verses": [
+   {
+    "ref": "51:56",
+    "ayahs": [
+     "51:56"
+    ],
+    "en": "And I did not create the jinn and mankind except to worship Me.",
+    "why": "The foundation of purpose in the Qur’an. A life lived with awareness of Allah gives meaning to ordinary things.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "9:71",
+    "ayahs": [
+     "9:71"
+    ],
+    "en": "The believing men and believing women are allies of one another. They enjoin what is right and forbid what is wrong and establish prayer and give zakāh and obey Allah and His Messenger. Allah will have mercy upon them. Indeed, Allah is Exalted in Might and Wise.",
+    "why": "A picture of shared values: people who help each other do good.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "103:1-3",
+    "ayahs": [
+     "103:1",
+     "103:2",
+     "103:3"
+    ],
+    "en": "By time, indeed, mankind is in loss, except for those who believe and do righteous deeds and advise each other to truth and advise each other to patience.",
+    "why": "Even the saving formula includes “advise each other”. It is shared, not solo.",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "3:103",
+    "ayahs": [
+     "3:103"
+    ],
+    "en": "And hold firmly to the rope of Allah all together and do not become divided. And remember the favour of Allah upon you – when you were enemies and He brought your hearts together and you became, by His favour, brothers. And you were on the edge of a pit of the Fire and He saved you from it. Thus does Allah make clear to you His verses that you may be guided.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "5:2",
+    "ayahs": [],
+    "en": "…And cooperate in righteousness and piety, and do not cooperate in sin and aggression. And fear Allah; indeed, Allah is severe in penalty.",
+    "why": "Partnership in good is commanded. Part of verse 5:2.",
+    "arabic": false,
+    "note": ""
+   },
+   {
+    "ref": "16:97",
+    "ayahs": [
+     "16:97"
+    ],
+    "en": "Whoever does righteousness, whether male or female, while he is a believer – We will surely cause him to live a good life, and We will surely give them their reward according to the best of what they used to do.",
+    "why": "",
+    "arabic": true,
+    "note": ""
+   },
+   {
+    "ref": "18:28",
+    "ayahs": [
+     "18:28"
+    ],
+    "en": "And keep yourself [O Muhammad] patient [by being] with those who call upon their Lord in the morning and the evening, desiring His countenance. And let not your eyes pass beyond them, desiring adornments of the worldly life, and do not obey one whose heart We have made heedless of Our remembrance and who follows his desire and whose affair is ever [in] neglect.",
+    "why": "Find people who call upon their Lord and stay with them.",
+    "arabic": true,
+    "note": ""
+   }
+  ],
+  "hadith": [
+   {
+    "en": "^The Prophet ﷺ said: “No people gather in one of the houses of Allah, reciting the Book of Allah and studying it among themselves, except that tranquillity (sakīnah) descends upon them, mercy covers them, the angels surround them, and Allah mentions them to those who are with Him.”",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      2699
+     ]
+    ],
+    "why": "Where this site gets its name. Shared study brings sakīnah.",
+    "grade": null
+   },
+   {
+    "en": "A believer to a believer is like a building: each part strengthens the other.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      481
+     ],
+     [
+      "muslim",
+      2585
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "^The Prophet ﷺ said: “The religion is naṣīḥah (sincere care and advice).” We said: “For whom?” He said: “For Allah, His Book, His Messenger, and for the leaders of the Muslims and their common people.”",
+    "by": "Tamīm ad-Dārī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      55
+     ]
+    ],
+    "why": "A purpose in one word: sincere care.",
+    "grade": null
+   },
+   {
+    "en": "When a person dies, his deeds come to an end except for three: ongoing charity, knowledge from which people benefit, or a righteous child who prays for him.",
+    "by": "Abū Hurayrah (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "muslim",
+      1631
+     ]
+    ],
+    "why": "A way to think about legacy: what can continue after you?",
+    "grade": null
+   },
+   {
+    "en": "The example of a good companion and a bad companion is like a seller of musk and a blacksmith’s bellows. The musk seller will either give you some, or you will buy from him, or at least you will find a pleasant fragrance. The blacksmith will either burn your clothes or you will find an unpleasant smell.",
+    "by": "Abū Mūsā al-Ashʿarī (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      5534
+     ],
+     [
+      "muslim",
+      2628
+     ]
+    ],
+    "why": "",
+    "grade": null
+   },
+   {
+    "en": "Be in this world as though you were a stranger or a wayfarer.",
+    "by": "ʿAbdullāh ibn ʿUmar (may Allah be pleased with him)",
+    "srcs": [
+     [
+      "bukhari",
+      6416
+     ]
+    ],
+    "why": "",
+    "grade": null
+   }
+  ],
+  "duas": [
+   "aal",
+   "zakariya"
+  ],
+  "steps": [
+   "Write the three things you want your life to be about, in a sentence each. Share it with one friend.",
+   "Join a group that shares those values: a masjid study circle, a volunteering team, a sports or learning group.",
+   "Start something small with others: a weekly study circle, a clean-up, a charity drive.",
+   "If nobody around you shares your values, be patient. Build a small circle slowly, and keep a few good friends online and offline.",
+   "Pick one skill you can put in service of others and practise it weekly."
+  ],
+  "related": [
+   "identity",
+   "loneliness",
+   "peer"
+  ]
+ }
+]

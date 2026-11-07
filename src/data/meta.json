@@ -1,0 +1,307 @@
+{
+ "surahs": {
+  "2": "Al-Baqarah",
+  "3": "Āl ʿImrān",
+  "4": "An-Nisāʾ",
+  "5": "Al-Māʾidah",
+  "6": "Al-Anʿām",
+  "7": "Al-Aʿrāf",
+  "9": "At-Tawbah",
+  "10": "Yūnus",
+  "11": "Hūd",
+  "12": "Yūsuf",
+  "13": "Ar-Raʿd",
+  "14": "Ibrāhīm",
+  "15": "Al-Ḥijr",
+  "16": "An-Naḥl",
+  "17": "Al-Isrāʾ",
+  "18": "Al-Kahf",
+  "19": "Maryam",
+  "20": "Ṭā-Hā",
+  "21": "Al-Anbiyāʾ",
+  "22": "Al-Ḥajj",
+  "23": "Al-Muʾminūn",
+  "24": "An-Nūr",
+  "25": "Al-Furqān",
+  "28": "Al-Qaṣaṣ",
+  "29": "Al-ʿAnkabūt",
+  "30": "Ar-Rūm",
+  "31": "Luqmān",
+  "33": "Al-Aḥzāb",
+  "39": "Az-Zumar",
+  "41": "Fuṣṣilat",
+  "42": "Ash-Shūrā",
+  "49": "Al-Ḥujurāt",
+  "50": "Qāf",
+  "51": "Adh-Dhāriyāt",
+  "53": "An-Najm",
+  "57": "Al-Ḥadīd",
+  "62": "Al-Jumuʿah",
+  "63": "Al-Munāfiqūn",
+  "64": "At-Taghābun",
+  "65": "At-Ṭalāq",
+  "67": "Al-Mulk",
+  "78": "An-Nabaʾ",
+  "82": "Al-Infiṭār",
+  "90": "Al-Balad",
+  "93": "Aḍ-Ḍuḥā",
+  "91": "Ash-Shams",
+  "94": "Ash-Sharḥ",
+  "95": "At-Tīn",
+  "71": "Nūḥ",
+  "102": "At-Takāthur",
+  "103": "Al-ʿAṣr",
+  "112": "Al-Ikhlāṣ",
+  "113": "Al-Falaq",
+  "114": "An-Nās",
+  "1": "Al-Fātiḥah",
+  "26": "Ash-Shuʿarāʾ",
+  "66": "At-Taḥrīm",
+  "68": "Al-Qalam",
+  "96": "Al-ʿAlaq",
+  "97": "Al-Qadr",
+  "98": "Al-Bayyinah",
+  "99": "Az-Zalzalah"
+ },
+ "collections": {
+  "bukhari": "Sahih al-Bukhari",
+  "muslim": "Sahih Muslim",
+  "tirmidhi": "Jami‘ at-Tirmidhi",
+  "abudawud": "Sunan Abi Dawud"
+ },
+ "moods": [
+  [
+   "Heavy & sad",
+   "depression"
+  ],
+  [
+   "Anxious",
+   "anxiety"
+  ],
+  [
+   "Lonely",
+   "loneliness"
+  ],
+  [
+   "Exhausted",
+   "burnout"
+  ],
+  [
+   "Behind in life",
+   "behind"
+  ],
+  [
+   "Comparing myself",
+   "comparison"
+  ],
+  [
+   "Scared of the future",
+   "future"
+  ],
+  [
+   "Stuck scrolling",
+   "attention"
+  ],
+  [
+   "Can’t sleep",
+   "sleep"
+  ],
+  [
+   "Overwhelmed by news",
+   "overwhelm"
+  ],
+  [
+   "Angry",
+   "anger"
+  ],
+  [
+   "Heartbroken",
+   "heartbreak"
+  ],
+  [
+   "Guilty or ashamed",
+   "guilt"
+  ],
+  [
+   "Hopeless",
+   "hopeless"
+  ],
+  [
+   "Who am I?",
+   "identity"
+  ],
+  [
+   "No purpose",
+   "purpose"
+  ],
+  [
+   "Far from Allah",
+   "distant"
+  ],
+  [
+   "Grieving",
+   "grief"
+  ],
+  [
+   "Trouble at home",
+   "family"
+  ],
+  [
+   "Pressure from friends",
+   "peer"
+  ],
+  [
+   "Can’t quit a habit",
+   "habit"
+  ],
+  [
+   "Self-conscious",
+   "bodyimage"
+  ]
+ ],
+ "heroVerses": [
+  {
+   "ref": "94:5-6",
+   "ayahs": [
+    "94:5",
+    "94:6"
+   ],
+   "en": "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."
+  },
+  {
+   "ref": "13:28",
+   "ayahs": [
+    "13:28"
+   ],
+   "en": "Truly, in the remembrance of Allah do hearts find peace."
+  },
+  {
+   "ref": "2:286",
+   "ayahs": [
+    "2:286"
+   ],
+   "en": "Allah does not charge a soul except [with that within] its capacity."
+  },
+  {
+   "ref": "93:3",
+   "ayahs": [
+    "93:3"
+   ],
+   "en": "Your Lord has not taken leave of you, nor has He detested [you]."
+  },
+  {
+   "ref": "2:153",
+   "ayahs": [
+    "2:153"
+   ],
+   "en": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient."
+  },
+  {
+   "ref": "9:40",
+   "ayahs": [],
+   "en": "“Do not grieve; indeed Allah is with us.” (the Prophet ﷺ to Abū Bakr in the cave – part of verse 9:40)",
+   "arabic": false
+  },
+  {
+   "ref": "50:16",
+   "ayahs": [
+    "50:16"
+   ],
+   "en": "…and We are closer to him than [his] jugular vein."
+  },
+  {
+   "ref": "39:53",
+   "ayahs": [
+    "39:53"
+   ],
+   "en": "Say, “O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah.” (part of verse 39:53)",
+   "arabic": false
+  }
+ ],
+ "countries": [
+  "Afghanistan",
+  "Algeria",
+  "Argentina",
+  "Australia",
+  "Austria",
+  "Azerbaijan",
+  "Bahrain",
+  "Bangladesh",
+  "Belgium",
+  "Bosnia and Herzegovina",
+  "Brazil",
+  "Brunei",
+  "Canada",
+  "China",
+  "Denmark",
+  "Egypt",
+  "France",
+  "Germany",
+  "Ghana",
+  "India",
+  "Indonesia",
+  "Iran",
+  "Iraq",
+  "Ireland",
+  "Italy",
+  "Japan",
+  "Jordan",
+  "Kazakhstan",
+  "Kenya",
+  "Kuwait",
+  "Lebanon",
+  "Libya",
+  "Malaysia",
+  "Maldives",
+  "Morocco",
+  "Nepal",
+  "Netherlands",
+  "New Zealand",
+  "Nigeria",
+  "Norway",
+  "Oman",
+  "Pakistan",
+  "Palestine",
+  "Philippines",
+  "Qatar",
+  "Russia",
+  "Saudi Arabia",
+  "Senegal",
+  "Singapore",
+  "Somalia",
+  "South Africa",
+  "Spain",
+  "Sri Lanka",
+  "Sudan",
+  "Sweden",
+  "Switzerland",
+  "Syria",
+  "Tanzania",
+  "Tunisia",
+  "Turkey",
+  "UAE",
+  "Uganda",
+  "United Kingdom",
+  "United States",
+  "Uzbekistan",
+  "Yemen"
+ ],
+ "groups": [
+  [
+   "mind",
+   "Heart & mind"
+  ],
+  [
+   "people",
+   "People & relationships"
+  ],
+  [
+   "faith",
+   "Faith & the soul"
+  ],
+  [
+   "body",
+   "Body"
+  ]
+ ]
+}
